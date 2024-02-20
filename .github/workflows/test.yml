@@ -1,8 +1,7 @@
 name: run scraper.py
 
 on:
-  worflow_dispatch
-
+worflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
