@@ -54,9 +54,19 @@ def extract_job_information(html_content):
     job_metadata = [metadata.replace('year', 'year ') if 'year' in metadata else metadata for metadata in job_metadata]
     job_metadata = [metadata.replace('month', 'month ') if 'month' in metadata else metadata for metadata in job_metadata] 
     job_metadata = [metadata.replace('hour', 'hour ') if 'hour' in metadata else metadata for metadata in job_metadata]    
-    job_descriptions = [description.text.strip().replace('\n', '').replace('\u2026', '')[:160] for description in soup.find_all(class_='underShelfFooter')]
+    
+    # Clean job descriptions
+    job_descriptions = []
+    for description in soup.find_all(class_='underShelfFooter'):
+        cleaned_description = description.text.strip().split('PostedPosted')[0]
+        cleaned_description = cleaned_description.replace('\u2026', '').replace('\u2019', '').replace('\n', '')
+        job_descriptions.append(cleaned_description)
     
     return job_titles, job_urls, company_names, company_locations, job_metadata, job_descriptions
+
+
+
+
 
 if __name__ == "__main__":
     job_search_url = "https://www.indeed.com/q-citibank-jobs.html?vjk=234418ba30a2eecd"
