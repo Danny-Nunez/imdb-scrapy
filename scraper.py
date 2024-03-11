@@ -69,7 +69,7 @@ def extract_job_information(html_content):
 
 
 if __name__ == "__main__":
-    job_search_url = "https://www.indeed.com/q-citibank-jobs.html?vjk=234418ba30a2eecd"
+    job_search_url = "https://www.indeed.com/jobs?q=web+developer&l=Baltimore%2C+MD&vjk=32f4eeb0960a3259"
     
     html_content = scrape_indeed_jobs(job_search_url)
     if html_content:
