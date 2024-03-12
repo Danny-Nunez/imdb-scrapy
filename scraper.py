@@ -7,72 +7,86 @@ import json
 # Load environment variables from .env file
 load_dotenv()
 
-def scrape_imdb_movies(imdb_url):
+def scrape_indeed_jobs(job_search_url):
     # Retrieve API key from environment variables
     api_key = os.getenv("SOME_SECRET")
     if api_key is None:
-        print("SCRAPINGDOG_API_KEY not found in .env file.")
+        print("API_KEY not found in .env file.")
         return None
-    
-    url = f"https://api.scrapingdog.com/scrape?api_key={api_key}&url={imdb_url}&render=true"
-    
+
+    url = f"https://api.scrapingdog.com/scrape?api_key={api_key}&url={job_search_url}&dynamic=false"
+
     # Make the HTTP GET request
     response = requests.get(url)
     
-    # Check if the request was successful (status code 200)
+    # Check if the request was successful
     if response.status_code == 200:
-        # Return the parsed HTML content
         return response.content
     else:
         print(f"Error: {response.status_code}")
         print(response.text)
         return None
 
-def extract_movie_information(html_content):
+def extract_job_information(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
     
-    # Extract movie titles, IMDb IDs, and movie images
-    movie_titles = [title.text.strip() for title in soup.select('.ipc-metadata-list .ipc-title__text')]
-    imdb_ids = [a['href'].split('/')[2] for a in soup.select('.ipc-metadata-list .ipc-title-link-wrapper')]
-    movie_images = []
-    for img in soup.select('.ipc-metadata-list .ipc-media img'):
-        srcset = img['srcset'].split(', ')
-        # Select the third URL from the srcset attribute
-        image = srcset[2].split()[0]
-        movie_images.append(image)
+    # Extract job titles, URLs, company names, locations, metadata, and descriptions
+    job_titles = [title.text.strip() for title in soup.find_all('h2', class_='jobTitle')]
+    job_urls = [f"https://indeed.com{title.a['href']}" for title in soup.find_all('h2', class_='jobTitle')]
     
-    # Store movie information in a list of dictionaries
-    movies_info = []
-    for title, imdb_id, image in zip(movie_titles, imdb_ids, movie_images):
-        movie_info = {
-            "Movie Title": title,
-            "IMDb ID": imdb_id,
-            "Movie Image": image
-        }
-        movies_info.append(movie_info)
-    
-    return movies_info
+    company_names = []
+    company_locations = []
+    for location in soup.find_all(class_='company_location'):
+        css_1p0sjhy_div = location.find('div', class_='css-1p0sjhy eu4oa1w0')
+        if css_1p0sjhy_div:
+            company_locations.append(css_1p0sjhy_div.text.strip())
+            company_name_span = location.find('span', class_='css-92r8pb eu4oa1w0')
+            if company_name_span:
+                company_names.append(company_name_span.text.strip())
+            else:
+                company_names.append("N/A")
+
+    job_metadata = [metadata.text.strip() for metadata in soup.find_all(class_='jobMetaDataGroup')]
+    job_metadata = [metadata.replace('provided', 'provided ') if 'provided' in metadata else metadata for metadata in job_metadata]  
+    job_metadata = [metadata.replace('year', 'year ') if 'year' in metadata else metadata for metadata in job_metadata]
+    job_metadata = [metadata.replace('month', 'month ') if 'month' in metadata else metadata for metadata in job_metadata] 
+    job_metadata = [metadata.replace('hour', 'hour ') if 'hour' in metadata else metadata for metadata in job_metadata]    
+    job_descriptions = [description.text.strip().replace('\n', '').replace('\u2026', '')[:160] for description in soup.find_all(class_='underShelfFooter')]
+
+    return job_titles, job_urls, company_names, company_locations, job_metadata, job_descriptions
 
 if __name__ == "__main__":
-<<<<<<< HEAD
-    job_search_url = "https://www.indeed.com/jobs?q=web+developer&l=Baltimore%2C+MD&vjk=32f4eeb0960a3259"
-=======
-    imdb_url = "https://www.imdb.com/chart/moviemeter/?ref_=nv_mv_mpm"
->>>>>>> 2266d04956ddbfe5e0778b0896d2961ba75d1310
-    
-    html_content = scrape_imdb_movies(imdb_url)
+    job_search_url = "https://www.indeed.com/q-citibank-jobs.html?vjk=234418ba30a2eecd"
+
+    html_content = scrape_indeed_jobs(job_search_url)
     if html_content:
-        movies = extract_movie_information(html_content)
-        
-        # Write movie information to JSON file
+        job_titles, job_urls, company_names, company_locations, job_metadata, job_descriptions = extract_job_information(html_content)
+
+        # Store job information in a list of dictionaries
+        jobs = []
+        for title, url, name, location, metadata, description in zip(job_titles, job_urls, company_names, company_locations, job_metadata, job_descriptions):
+            job_info = {
+                "Job Title": title,
+                "Job URL": url,
+                "Company Name": name,
+                "Company Location": location,
+                "Salary": metadata,
+                "Job Description": description
+            }
+            jobs.append(job_info)
+
+        # Write job information to JSON file
         results_dir = "results"
         os.makedirs(results_dir, exist_ok=True)
         with open(os.path.join(results_dir, "results.json"), "w") as f:
-            json.dump(movies, f, indent=4)
-        
-        # Print movie information
-        for movie in movies:
-            print("Movie Title:", movie["Movie Title"])
-            print("IMDb ID:", movie["IMDb ID"])
-            print("Movie Image:", movie["Movie Image"])
+            json.dump(jobs, f, indent=4)
+
+        # Print job information
+        for job in jobs:
+            print("Job Title:", job["Job Title"])
+            print("Job URL:", job["Job URL"])
+            print("Company Name:", job["Company Name"])
+            print("Company Location:", job["Company Location"])
+            print("Salary:", job["Salary"])
+            print("Job Description:", job["Job Description"])
             print()
