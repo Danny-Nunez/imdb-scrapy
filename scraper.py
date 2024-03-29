@@ -1,74 +1,77 @@
 import os
-import requests
-from bs4 import BeautifulSoup
+import scrapy
+from scrapy.crawler import CrawlerProcess
 from dotenv import load_dotenv
-import json
 
 # Load environment variables from .env file
 load_dotenv()
 
-def scrape_imdb_movies(imdb_url):
-    # Retrieve API key from environment variables
-    api_key = os.getenv("SOME_SECRET")
-    if api_key is None:
-        print("SCRAPINGDOG_API_KEY not found in .env file.")
-        return None
-    
-    url = f"https://api.scrapingdog.com/scrape?api_key={api_key}&url={imdb_url}&render=true"
-    
-    # Make the HTTP GET request
-    response = requests.get(url)
-    
-    # Check if the request was successful (status code 200)
-    if response.status_code == 200:
-        # Return the parsed HTML content
-        return response.content
-    else:
-        print(f"Error: {response.status_code}")
-        print(response.text)
-        return None
+class IMDbSpider(scrapy.Spider):
+    name = "imdb_spider"
+    allowed_domains = ["imdb.com", "m.imdb.com"]
+    start_urls = ["https://www.imdb.com/chart/moviemeter/?ref_=nv_mv_mpm"]
 
-def extract_movie_information(html_content):
-    soup = BeautifulSoup(html_content, 'html.parser')
-    
-    # Extract movie titles, IMDb IDs, and movie images
-    movie_titles = [title.text.strip() for title in soup.select('.ipc-metadata-list .ipc-title__text')]
-    imdb_ids = [a['href'].split('/')[2] for a in soup.select('.ipc-metadata-list .ipc-title-link-wrapper')]
-    movie_images = []
-    for img in soup.select('.ipc-metadata-list .ipc-media img'):
-        srcset = img['srcset'].split(', ')
-        # Select the third URL from the srcset attribute
-        image = srcset[2].split()[0]
-        movie_images.append(image)
-    
-    # Store movie information in a list of dictionaries
-    movies_info = []
-    for title, imdb_id, image in zip(movie_titles, imdb_ids, movie_images):
-        movie_info = {
-            "Movie Title": title,
-            "IMDb ID": imdb_id,
-            "Movie Image": image
+    custom_settings = {
+        'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3',
+        'FEEDS': {
+            'results/results.json': {
+                'format': 'json',
+                'encoding': 'utf8',
+                'store_empty': False,
+                'fields': None,
+                'indent': 4,
+                'item_export_kwargs': {
+                   'export_empty_fields': True,
+                },
+            },
+        },
+    }
+
+    def parse(self, response):
+        # Iterate over each movie item on the webpage
+        for movie in response.css('li.ipc-metadata-list-summary-item'):
+            # Extract the title, IMDb ID, and rating
+            title = movie.css('.ipc-title--title .ipc-title-link-wrapper h3::text').get()
+            imdb_id_link = movie.css('.ipc-title-link-wrapper::attr(href)').get()
+            imdb_id = imdb_id_link.split('/')[2] if imdb_id_link else None
+            image_url = movie.css('.ipc-media img.ipc-image::attr(src)').get()
+            new_image_url = image_url.replace("UX140_CR0,0,140,207", "UX280_CR0,0,280,414")
+            rating_label = movie.css('.ipc-rating-star--imdb::attr(aria-label)').get()
+            rating = rating_label.split(': ')[1] if rating_label else None
+
+            # Generate the URL for the wallpaper page
+            wallpaper_url = f"https://m.imdb.com/title/{imdb_id}/mediaviewer"
+
+            # Yield a request to the wallpaper page, passing the extracted data for later use
+            yield scrapy.Request(wallpaper_url, callback=self.parse_wallpaper, meta={'title': title, 'imdb_id': imdb_id, 'poster_image': new_image_url, 'rating': rating})
+
+    def parse_wallpaper(self, response):
+        # Extract the wallpaper image from the response
+        wallpaper_image = response.css('div.cISuCS img::attr(src)').get()
+
+        # Return the final data structure including the poster and wallpaper image
+        yield {
+            'Movie Title': response.meta['title'],
+            'IMDb ID': response.meta['imdb_id'],
+            'Movie Image': response.meta['poster_image'],
+            'Rating': response.meta['rating'],
+            'Wallpaper Image': wallpaper_image,
         }
-        movies_info.append(movie_info)
-    
-    return movies_info
 
+# Run the spider
 if __name__ == "__main__":
-    imdb_url = "https://www.imdb.com/chart/moviemeter/?ref_=nv_mv_mpm"
+    results_dir = 'results'
+    results_file = f'{results_dir}/results.json'
     
-    html_content = scrape_imdb_movies(imdb_url)
-    if html_content:
-        movies = extract_movie_information(html_content)
-        
-        # Write movie information to JSON file
-        results_dir = "results"
-        os.makedirs(results_dir, exist_ok=True)
-        with open(os.path.join(results_dir, "results.json"), "w") as f:
-            json.dump(movies, f, indent=4)
-        
-        # Print movie information
-        for movie in movies:
-            print("Movie Title:", movie["Movie Title"])
-            print("IMDb ID:", movie["IMDb ID"])
-            print("Movie Image:", movie["Movie Image"])
-            print()
+    # Create the results directory if it does not exist
+    if not os.path.exists(results_dir):
+        os.makedirs(results_dir)
+
+    # Remove the existing results file before running the spider
+    if os.path.exists(results_file):
+        os.remove(results_file)
+    
+    process = CrawlerProcess()
+    process.crawl(IMDbSpider)
+    process.start()
+
