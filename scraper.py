@@ -53,7 +53,7 @@ class IMDbSpider(scrapy.Spider):
         yield {
             'Movie Title': response.meta['title'],
             'IMDb ID': response.meta['imdb_id'],
-            'Movie Image': response.meta['poster_image'],
+            'Poster Image': response.meta['poster_image'],
             'Rating': response.meta['rating'],
             'Wallpaper Image': wallpaper_image,
         }
@@ -74,4 +74,3 @@ if __name__ == "__main__":
     process = CrawlerProcess()
     process.crawl(IMDbSpider)
     process.start()
-
