@@ -1,12 +1,5 @@
 [
 {
-    "Movie Title": "Madame Web",
-    "IMDb ID": "tt11057302",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYWJkY2Q4NmYtOGRlMi00YTg5LWE2ZmQtY2NkYzk3YTRmNWZlXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "3.9",
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BMGJkOTUyYzItNjIxMS00NDNhLTliMjktODZiNjgzMjFjYTU0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"
-},
-{
     "Movie Title": "Beetlejuice Beetlejuice",
     "IMDb ID": "tt2049403",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BNjdiMjk1NzItZDk2ZS00ODc1LTg2ZGEtYjIwNmVmNGJlZmU0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -28,18 +21,25 @@
     "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BNTUxMmZmODgtOTY1YS00NjE4LThmMjYtMjhjMDYzZGJmNTNiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
 },
 {
-    "Movie Title": "The Iron Claw",
-    "IMDb ID": "tt21064584",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BOGE5NjllZTEtMGJjNy00ZTFmLThlNDItNmNiZTgyOTQ4OTA2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "7.6",
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BNjFjZTA5ZTUtNTk3OS00N2ZmLWI1ODMtNjhiY2Q2ODEyMDNkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"
-},
-{
     "Movie Title": "Furiosa: A Mad Max Saga",
     "IMDb ID": "tt12037194",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BNmYzMWVjNmQtNjJjNy00M2Y4LTkzZjQtZWQ5NmYzMjRjMDIzXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_QL75_UY207_CR13,0,140,207_.jpg",
     "Rating": "7.9",
     "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BODNmYmZiODAtNzllNS00NDMxLWI4ODktMTY2MWI4OTJlYWE4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
+},
+{
+    "Movie Title": "The Strangers: Chapter 1",
+    "IMDb ID": "tt22050754",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNDVkZTM0NDAtNTQxMS00NWIyLTgyM2ItNjAxOTllYTAzNTVjXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "5.0",
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BMjEyMDVjNGEtMmU2Yi00YWNmLWI3NGItMGUzNzgyMTExMDY1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"
+},
+{
+    "Movie Title": "The Iron Claw",
+    "IMDb ID": "tt21064584",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BOGE5NjllZTEtMGJjNy00ZTFmLThlNDItNmNiZTgyOTQ4OTA2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "7.6",
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BNjFjZTA5ZTUtNTk3OS00N2ZmLWI1ODMtNjhiY2Q2ODEyMDNkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"
 },
 {
     "Movie Title": "The Idea of You",
@@ -56,18 +56,25 @@
     "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BZWY4N2U2NWItNWIzOC00MDBjLWI4MDMtMTc4ZTNmMWJjZWZlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"
 },
 {
+    "Movie Title": "Megalopolis",
+    "IMDb ID": "tt10128846",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZTQyZWIwMTctNmM3Yy00YzhjLWFjYjgtNTdmZGE0OTBhM2Q3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "7.0",
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BYzBiMTBlOTAtOTNhZi00ZThhLWJmNmQtZGJhMmVhNzI4ZGUxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+},
+{
+    "Movie Title": "Madame Web",
+    "IMDb ID": "tt11057302",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYWJkY2Q4NmYtOGRlMi00YTg5LWE2ZmQtY2NkYzk3YTRmNWZlXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "3.9",
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BMGJkOTUyYzItNjIxMS00NDNhLTliMjktODZiNjgzMjFjYTU0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"
+},
+{
     "Movie Title": "Atlas",
     "IMDb ID": "tt14856980",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BOWM5OGE3NGMtODc4Yi00NThjLWE2NTMtMDE5YjBhYmY5ZTE3XkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_QL75_UY207_CR13,0,140,207_.jpg",
     "Rating": "5.6",
     "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BYjg5YjEzNjUtZmFiNy00NzA3LTg3MGUtNGRkM2NhMTMxOWE1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"
-},
-{
-    "Movie Title": "The Strangers: Chapter 1",
-    "IMDb ID": "tt22050754",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNDVkZTM0NDAtNTQxMS00NWIyLTgyM2ItNjAxOTllYTAzNTVjXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "5.0",
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BMjEyMDVjNGEtMmU2Yi00YWNmLWI3NGItMGUzNzgyMTExMDY1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"
 },
 {
     "Movie Title": "Mad Max: Fury Road",
@@ -77,11 +84,11 @@
     "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BMTU3ODM0MjUzOV5BMl5BanBnXkFtZTgwNjY0NDI2MDI@._V1_.jpg"
 },
 {
-    "Movie Title": "Megalopolis",
-    "IMDb ID": "tt10128846",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZTQyZWIwMTctNmM3Yy00YzhjLWFjYjgtNTdmZGE0OTBhM2Q3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "7.0",
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BYzBiMTBlOTAtOTNhZi00ZThhLWJmNmQtZGJhMmVhNzI4ZGUxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    "Movie Title": "Challengers",
+    "IMDb ID": "tt16426418",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNTk1MTdmYzctNzlkOS00ZTNmLWI4ZTMtMzc3OWFkMDI0MTJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "7.4",
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BYTE1NGZkYWYtODI0Ny00OTIzLWEzY2ItOTM0NjRjNDk5ZDc3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"
 },
 {
     "Movie Title": "Dune: Part Two",
@@ -105,25 +112,11 @@
     "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BZjhiYjIyYWYtNGIzYS00OWIwLWE2ZDMtZGJkNWIzYWRjZjY4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
 },
 {
-    "Movie Title": "Challengers",
-    "IMDb ID": "tt16426418",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNTk1MTdmYzctNzlkOS00ZTNmLWI4ZTMtMzc3OWFkMDI0MTJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "7.4",
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BYTE1NGZkYWYtODI0Ny00OTIzLWEzY2ItOTM0NjRjNDk5ZDc3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"
-},
-{
     "Movie Title": "Mother of the Bride",
     "IMDb ID": "tt26926267",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BZWIzN2FhN2ItNTYxMC00M2Q3LThiNGMtOWRjYjE5MDY4MjFiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
     "Rating": "4.8",
     "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BYzUzZGEwZTAtYzI3Yy00Y2ZkLTkwMmItN2QzMzI3ODJkZDQ3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
-},
-{
-    "Movie Title": "Kinds of Kindness",
-    "IMDb ID": "tt22408160",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNzYwNGU0YzItMGE3YS00Yjc3LWFmMTgtZWU5Mjg4NGJkMzdlXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UY207_CR3,0,140,207_.jpg",
-    "Rating": "6.9",
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BYmEwM2MxMDktMTcxZS00MmJkLTk1NWItM2E1NWEwOGQyY2UxXkEyXkFqcGc@._V1_.jpg"
 },
 {
     "Movie Title": "Boy Kills World",
@@ -133,25 +126,11 @@
     "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BMDE0MjQ2YTEtNzdmMS00MTc4LTg3M2YtM2EzYjBiMTJmYzNiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"
 },
 {
-    "Movie Title": "The Apprentice",
-    "IMDb ID": "tt8368368",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMWYyOTM5NTItNDk5NC00OWY3LTk0ODEtMDNmMTFhNmIyZjNjXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_QL75_UY207_CR86,0,140,207_.jpg",
-    "Rating": null,
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BYjQ4YTI5ZDMtNTJlNC00MDQ5LWFiMDEtYjE5MDBlZWIzOGRlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg"
-},
-{
     "Movie Title": "The Substance",
     "IMDb ID": "tt17526714",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BODgyYWExYzctODFmMi00MDZjLThjMWQtNmFlZmQwNTQ0YTJkXkEyXkFqcGdeQXVyMTIyODM2MTE3._V1_QL75_UY207_CR9,0,140,207_.jpg",
-    "Rating": "7.8",
+    "Rating": "7.7",
     "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BZjE5YTEzZTEtM2RkOS00NzcwLWE5Y2UtNjJkMjY1YjNhNWUwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
-},
-{
-    "Movie Title": "Abigail",
-    "IMDb ID": "tt27489557",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BY2JlYjlkNzMtNTU3OS00NDVmLTk4NTYtYTM4ZTEwMGM4NDBiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,7,140,207_.jpg",
-    "Rating": "6.7",
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BOGYzYTA3YjktYzZhYi00YzY0LWEwNzAtZGExYTE5YmNkMzlmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
 },
 {
     "Movie Title": "Wicked",
@@ -161,17 +140,38 @@
     "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BZjVkNjYxODMtNzhkYi00MTg5LThjY2UtNmQ2NDhkOTk1ZGRkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
 },
 {
+    "Movie Title": "The Fall Guy",
+    "IMDb ID": "tt1684562",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMjA5ZjA3ZjMtMzg2ZC00ZDc4LTk3MTctYTE1ZTUzZDIzMjQyXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_QL75_UX140_CR0,7,140,207_.jpg",
+    "Rating": "7.0",
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BMmU3ZTY3MWQtY2Q3Yi00YzZkLTgzNWUtN2IzYWJkY2ZhNjc2XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_.jpg"
+},
+{
+    "Movie Title": "Abigail",
+    "IMDb ID": "tt27489557",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BY2JlYjlkNzMtNTU3OS00NDVmLTk4NTYtYTM4ZTEwMGM4NDBiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,7,140,207_.jpg",
+    "Rating": "6.7",
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BOGYzYTA3YjktYzZhYi00YzY0LWEwNzAtZGExYTE5YmNkMzlmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
+},
+{
+    "Movie Title": "The Apprentice",
+    "IMDb ID": "tt8368368",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMWYyOTM5NTItNDk5NC00OWY3LTk0ODEtMDNmMTFhNmIyZjNjXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_QL75_UY207_CR86,0,140,207_.jpg",
+    "Rating": null,
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BYjQ4YTI5ZDMtNTJlNC00MDQ5LWFiMDEtYjE5MDBlZWIzOGRlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg"
+},
+{
+    "Movie Title": "Kinds of Kindness",
+    "IMDb ID": "tt22408160",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNzYwNGU0YzItMGE3YS00Yjc3LWFmMTgtZWU5Mjg4NGJkMzdlXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "Rating": "6.9",
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BYmEwM2MxMDktMTcxZS00MmJkLTk1NWItM2E1NWEwOGQyY2UxXkEyXkFqcGc@._V1_.jpg"
+},
+{
     "Movie Title": "Kingdom of the Planet of the Apes",
     "IMDb ID": "tt11389872",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BZGI4NTEwNTAtZDcwMi00MDkxLTg1OGYtNTZmMzE3ZDljNzVlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX280_CR0,0,280,414_.jpg",
     "Rating": "7.2",
     "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BZWZkYzllMjctMmRjMy00ODEyLWE5NDYtOTA1ODYxMjhlNmQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"
-},
-{
-    "Movie Title": "The Fall Guy",
-    "IMDb ID": "tt1684562",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMjA5ZjA3ZjMtMzg2ZC00ZDc4LTk3MTctYTE1ZTUzZDIzMjQyXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_QL75_UX140_CR0,7,140,207_.jpg",
-    "Rating": "7.1",
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BMmU3ZTY3MWQtY2Q3Yi00YzZkLTgzNWUtN2IzYWJkY2ZhNjc2XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_.jpg"
 }
 ]
