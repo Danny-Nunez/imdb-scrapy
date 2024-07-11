@@ -1,52 +1,17 @@
 [
 {
-    "Movie Title": "The Bikeriders",
-    "IMDb ID": "tt21454134",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYzE2N2MyMTgtMzFhOC00M2ZkLWI3ODgtNTVjNzBiYzBmOGE2XkEyXkFqcGdeQXVyMjI0NjI0Nw@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "7.1",
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BZThkZjNmZGYtMGFlNi00ZWI2LTlhZjMtZDk2YzcwOGU0N2FkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg"
-},
-{
-    "Movie Title": "Gladiator II",
-    "IMDb ID": "tt9218128",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZjU4OGIzMmYtZWYwYS00N2I2LWE2MjMtZWUxMmFmNjYwOWM4XkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
-    "Rating": null,
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BNDdhZGNmY2ItMjIxYS00ZTI1LThhOTgtYjFmZDcxN2Y5ZjkzXkEyXkFqcGc@._V1_.jpg"
-},
-{
-    "Movie Title": "Despicable Me 4",
-    "IMDb ID": "tt7510222",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BOTk4MjFhZTMtOWIxOS00YzE2LThkZGEtMzg0MDAyMmFiZmU1XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,1,140,207_.jpg",
-    "Rating": "6.3",
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BZTJjYzg5NTQtMmY5MS00YzI5LTg2YTMtZjFlMDNlMzA1YzMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
-},
-{
-    "Movie Title": "Hit Man",
-    "IMDb ID": "tt20215968",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNjE0ZDFiNjQtODhlOS00ZDllLTk0OTctODhjZGM2Y2RmZGQyXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,1,140,207_.jpg",
-    "Rating": "6.9",
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BNTI2MzRjZTQtNDY5ZC00ZTIzLTk2YmItNzA5ZWMxOTE0M2FlXkEyXkFqcGc@._V1_.jpg"
-},
-{
-    "Movie Title": "The Watchers",
-    "IMDb ID": "tt26736843",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZjNlYjg5YzYtMmU4ZC00MzA4LWE5YWYtNTJlOTkyZmQ0YzdkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "5.7",
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BZWVjMzM2NzYtZTc4Yy00ODdiLWE0YjctMjNiYTBkOWQ2ZDdjXkEyXkFqcGc@._V1_.jpg"
-},
-{
-    "Movie Title": "Beverly Hills Cop",
-    "IMDb ID": "tt0086960",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNzU1M2QxMzgtZmJiYy00Zjc4LTg3YTMtZTBmZmNhMDMxZmU2XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_QL75_UY207_CR1,0,140,207_.jpg",
-    "Rating": "7.4",
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BZjQ2NjIxZDItMDc1Yy00OTBlLTlkMGMtZTZiNzA3ZDdiNzQ2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
-},
-{
     "Movie Title": "Beverly Hills Cop: Axel F",
     "IMDb ID": "tt3083016",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BMDVhYWNkNTUtZWVjMC00Y2M1LWEzNmItZjFiMzA4ZjNiODI4XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
     "Rating": "6.6",
     "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BZWNiNjViOTYtZTE1Zi00OWU1LTg4YWItYTg2OWVhMzZkYzQzXkEyXkFqcGc@._V1_.jpg"
+},
+{
+    "Movie Title": "Gladiator II",
+    "IMDb ID": "tt9218128",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BODVlNzZmOWUtNTNhNC00YzczLTg5NzAtOThlZjViZDkwYTIzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": null,
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BNDdhZGNmY2ItMjIxYS00ZTI1LThhOTgtYjFmZDcxN2Y5ZjkzXkEyXkFqcGc@._V1_.jpg"
 },
 {
     "Movie Title": "Independence Day",
@@ -56,39 +21,25 @@
     "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BMTIxNzE2NDQ5NF5BMl5BanBnXkFtZTYwOTQxODk2._V1_.jpg"
 },
 {
-    "Movie Title": "MaXXXine",
-    "IMDb ID": "tt22048412",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNjBmYzFmODktNDIyZC00NWFmLTk2NTctYmZiY2E2OTA2OTc0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "6.9",
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BNDg0N2M3NzctZDgxYS00NGUyLWE2NjItMmJlM2FiYTZlZWUyXkEyXkFqcGc@._V1_.jpg"
+    "Movie Title": "Despicable Me 4",
+    "IMDb ID": "tt7510222",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BOTk4MjFhZTMtOWIxOS00YzE2LThkZGEtMzg0MDAyMmFiZmU1XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "Rating": "6.3",
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BZTJjYzg5NTQtMmY5MS00YzI5LTg2YTMtZjFlMDNlMzA1YzMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
 },
 {
-    "Movie Title": "Longlegs",
-    "IMDb ID": "tt23468450",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMmVkZWY2ODEtYTMyYy00MDg2LWFkMGUtMjYwOTBhOGViODQzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "7.9",
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BMGM5ZWU1MGQtZjE0ZC00MDA4LTgyZGUtMDdmNzk0MjcwNmMzXkEyXkFqcGc@._V1_.jpg"
+    "Movie Title": "Beverly Hills Cop",
+    "IMDb ID": "tt0086960",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNzU1M2QxMzgtZmJiYy00Zjc4LTg3YTMtZTBmZmNhMDMxZmU2XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "Rating": "7.4",
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BZjQ2NjIxZDItMDc1Yy00OTBlLTlkMGMtZTZiNzA3ZDdiNzQ2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
 },
 {
-    "Movie Title": "Horizon: An American Saga - Chapter 1",
-    "IMDb ID": "tt17505010",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYmUwMTA1Y2QtZmYzMi00ZmQ5LWEwOWUtM2RlZDI1Zjg4MmU0XkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_QL75_UY207_CR13,0,140,207_.jpg",
-    "Rating": "7.1",
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BZDdiY2RhZWEtOTVhNi00NDYwLTgxOGMtNDM5YjdiNTNlZDI2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg"
-},
-{
-    "Movie Title": "Deadpool & Wolverine",
-    "IMDb ID": "tt6263850",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNDA3MmYzOWEtYWZhNS00ZmU3LWJkYmUtODBjMzQyNzMxYmZhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": null,
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BM2VhMDdkNTktN2VjOC00ZGFhLWE2NmUtOTIwNTk0MmNiZTg3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg"
-},
-{
-    "Movie Title": "Inside Out 2",
-    "IMDb ID": "tt22022452",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYTc1MDQ3NjAtOWEzMi00YzE1LWI2OWUtNjQ0OWJkMzI3MDhmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "7.9",
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BOGU5YzUwOWItMjMwOC00MTlmLTg1ZDAtODE1ZDQzYzUwMWQ1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    "Movie Title": "The Watchers",
+    "IMDb ID": "tt26736843",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZjNlYjg5YzYtMmU4ZC00MzA4LWE5YWYtNTJlOTkyZmQ0YzdkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "5.7",
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BZWVjMzM2NzYtZTc4Yy00ODdiLWE0YjctMjNiYTBkOWQ2ZDdjXkEyXkFqcGc@._V1_.jpg"
 },
 {
     "Movie Title": "Kinds of Kindness",
@@ -98,6 +49,20 @@
     "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BYmEwM2MxMDktMTcxZS00MmJkLTk1NWItM2E1NWEwOGQyY2UxXkEyXkFqcGc@._V1_.jpg"
 },
 {
+    "Movie Title": "The Bikeriders",
+    "IMDb ID": "tt21454134",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYzE2N2MyMTgtMzFhOC00M2ZkLWI3ODgtNTVjNzBiYzBmOGE2XkEyXkFqcGdeQXVyMjI0NjI0Nw@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "7.1",
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BZThkZjNmZGYtMGFlNi00ZWI2LTlhZjMtZDk2YzcwOGU0N2FkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg"
+},
+{
+    "Movie Title": "Longlegs",
+    "IMDb ID": "tt23468450",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMmVkZWY2ODEtYTMyYy00MDg2LWFkMGUtMjYwOTBhOGViODQzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "7.8",
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BMGM5ZWU1MGQtZjE0ZC00MDA4LTgyZGUtMDdmNzk0MjcwNmMzXkEyXkFqcGc@._V1_.jpg"
+},
+{
     "Movie Title": "Furiosa: A Mad Max Saga",
     "IMDb ID": "tt12037194",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BNDRkNGNjNzMtYzE3MS00OWQyLTkzZGUtNWIyMmYwMjY3YzYxXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -105,46 +70,32 @@
     "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BODNmYmZiODAtNzllNS00NDMxLWI4ODktMTY2MWI4OTJlYWE4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
 },
 {
-    "Movie Title": "Kalki 2898 AD",
-    "IMDb ID": "tt12735488",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMTM3ZGUwYTEtZTI5NS00ZmMyLTk2YmQtMWU4YjlhZTI3NjRjXkEyXkFqcGc@._V1_QL75_UX140_CR0,6,140,207_.jpg",
-    "Rating": "7.8",
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BZmI3NWMwN2QtNjZhYy00MzVjLWE3M2QtNjk0MjMxOWI4ODI5XkEyXkFqcGdeQXVyMTQ5Nzc1NTMy._V1_.jpg"
+    "Movie Title": "Deadpool & Wolverine",
+    "IMDb ID": "tt6263850",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNzRiMjg0MzUtNTQ1Mi00Y2Q5LWEwM2MtMzUwZDU5NmVjN2NkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": null,
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BM2VhMDdkNTktN2VjOC00ZGFhLWE2NmUtOTIwNTk0MmNiZTg3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg"
 },
 {
-    "Movie Title": "Bad Boys: Ride or Die",
-    "IMDb ID": "tt4919268",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BY2U5YmQ3YjgtM2I2OC00YmM5LTkyM2MtN2I5Zjg2MDE0ODkwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-    "Rating": "7.0",
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BOWNlMzIyMGQtN2QxYS00MmM5LTg0ZWEtZjY5NDc3ZDA2MjJhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg"
+    "Movie Title": "MaXXXine",
+    "IMDb ID": "tt22048412",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNjBmYzFmODktNDIyZC00NWFmLTk2NTctYmZiY2E2OTA2OTc0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "6.9",
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BNDg0N2M3NzctZDgxYS00NGUyLWE2NjItMmJlM2FiYTZlZWUyXkEyXkFqcGc@._V1_.jpg"
 },
 {
-    "Movie Title": "The Beekeeper",
-    "IMDb ID": "tt15314262",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZjQwYjU3OTYtMWVhMi00N2Y2LWEzMDgtMzViN2U4NWI1NmI3XkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "6.4",
-    "Wallpaper Image": null
+    "Movie Title": "Horizon: An American Saga - Chapter 1",
+    "IMDb ID": "tt17505010",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYmUwMTA1Y2QtZmYzMi00ZmQ5LWEwOWUtM2RlZDI1Zjg4MmU0XkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+    "Rating": "7.1",
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BZDdiY2RhZWEtOTVhNi00NDYwLTgxOGMtNDM5YjdiNTNlZDI2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg"
 },
 {
-    "Movie Title": "X",
-    "IMDb ID": "tt13560574",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMTJiMmE5YWItOWZjYS00YTg0LWE0MTYtMzg2ZTY4YjNkNDEzXkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_QL75_UY207_CR13,0,140,207_.jpg",
-    "Rating": "6.5",
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BYzAxODcwNWMtMWY4Mi00Y2RiLTgyYmMtZmJmOGEwZWQyNzRkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
-},
-{
-    "Movie Title": "IF",
-    "IMDb ID": "tt11152168",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYWQ4OGI2MmQtZjUxMC00Njg2LWJiZTQtYmFmZjI5ZmI1Y2U1XkEyXkFqcGdeQXVyMTA1NjE5MTAz._V1_QL75_UY207_CR1,0,140,207_.jpg",
-    "Rating": "6.5",
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BZjhiYjIyYWYtNGIzYS00OWIwLWE2ZDMtZGJkNWIzYWRjZjY4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
-},
-{
-    "Movie Title": "Inside Out",
-    "IMDb ID": "tt2096673",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "8.1",
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BMTUyMjU5MTQzNF5BMl5BanBnXkFtZTgwNjc3MjAxNjE@._V1_.jpg"
+    "Movie Title": "Inside Out 2",
+    "IMDb ID": "tt22022452",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYTc1MDQ3NjAtOWEzMi00YzE1LWI2OWUtNjQ0OWJkMzI3MDhmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "7.9",
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BOGU5YzUwOWItMjMwOC00MTlmLTg1ZDAtODE1ZDQzYzUwMWQ1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
 },
 {
     "Movie Title": "A Quiet Place: Day One",
@@ -154,11 +105,53 @@
     "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BNzliNWE0ZmUtNThlZS00ZmM5LTg3ODYtYmJhMzRjYmVmYzA0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
 },
 {
-    "Movie Title": "A Family Affair",
-    "IMDb ID": "tt21051906",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMDQyMWFkMGMtNjhiMS00MzgyLWFmOGYtNzA3MGNjNGVhMGI4XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "5.4",
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BNGJmNzFjOTctNjMwZi00ZDY2LTliOWYtOTIyOTZkMjA1Y2ZkXkEyXkFqcGc@._V1_.jpg"
+    "Movie Title": "IF",
+    "IMDb ID": "tt11152168",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYWQ4OGI2MmQtZjUxMC00Njg2LWJiZTQtYmFmZjI5ZmI1Y2U1XkEyXkFqcGdeQXVyMTA1NjE5MTAz._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "Rating": "6.5",
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BZjhiYjIyYWYtNGIzYS00OWIwLWE2ZDMtZGJkNWIzYWRjZjY4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+},
+{
+    "Movie Title": "Kalki 2898 AD",
+    "IMDb ID": "tt12735488",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMTM3ZGUwYTEtZTI5NS00ZmMyLTk2YmQtMWU4YjlhZTI3NjRjXkEyXkFqcGc@._V1_QL75_UX140_CR0,6,140,207_.jpg",
+    "Rating": "7.8",
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BZmI3NWMwN2QtNjZhYy00MzVjLWE3M2QtNjk0MjMxOWI4ODI5XkEyXkFqcGdeQXVyMTQ5Nzc1NTMy._V1_.jpg"
+},
+{
+    "Movie Title": "X",
+    "IMDb ID": "tt13560574",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMTJiMmE5YWItOWZjYS00YTg0LWE0MTYtMzg2ZTY4YjNkNDEzXkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_QL75_UY207_CR13,0,140,207_.jpg",
+    "Rating": "6.5",
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BYzAxODcwNWMtMWY4Mi00Y2RiLTgyYmMtZmJmOGEwZWQyNzRkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
+},
+{
+    "Movie Title": "The Beekeeper",
+    "IMDb ID": "tt15314262",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZjQwYjU3OTYtMWVhMi00N2Y2LWEzMDgtMzViN2U4NWI1NmI3XkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "6.4",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Inside Out",
+    "IMDb ID": "tt2096673",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "8.1",
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BMTUyMjU5MTQzNF5BMl5BanBnXkFtZTgwNjc3MjAxNjE@._V1_.jpg"
+},
+{
+    "Movie Title": "Trap",
+    "IMDb ID": "tt26753003",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMzJiN2UyZjgtMjQ3MS00MDhhLTg5ZDItZmVjMTU3MTcwNzE4XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": null,
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BMWI3ZThmMzgtZjZhZC00N2MzLTlkNmYtMWM4NzBjYWE2YTg1XkEyXkFqcGc@._V1_.jpg"
+},
+{
+    "Movie Title": "Bad Boys: Ride or Die",
+    "IMDb ID": "tt4919268",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BY2U5YmQ3YjgtM2I2OC00YmM5LTkyM2MtN2I5Zjg2MDE0ODkwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "Rating": "7.0",
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BOWNlMzIyMGQtN2QxYS00MmM5LTg0ZWEtZjY5NDc3ZDA2MjJhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg"
 },
 {
     "Movie Title": "In a Violent Nature",
@@ -168,10 +161,17 @@
     "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BNTdiNzBiOWEtNGY2NC00ZmQ1LWJmNDItNzY5ZWVlODNiYzY1XkEyXkFqcGc@._V1_.jpg"
 },
 {
-    "Movie Title": "Trap",
-    "IMDb ID": "tt26753003",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMzJiN2UyZjgtMjQ3MS00MDhhLTg5ZDItZmVjMTU3MTcwNzE4XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": null,
-    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BMWI3ZThmMzgtZjZhZC00N2MzLTlkNmYtMWM4NzBjYWE2YTg1XkEyXkFqcGc@._V1_.jpg"
+    "Movie Title": "Hit Man",
+    "IMDb ID": "tt20215968",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNjE0ZDFiNjQtODhlOS00ZDllLTk0OTctODhjZGM2Y2RmZGQyXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "Rating": "6.9",
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BNTI2MzRjZTQtNDY5ZC00ZTIzLTk2YmItNzA5ZWMxOTE0M2FlXkEyXkFqcGc@._V1_.jpg"
+},
+{
+    "Movie Title": "A Family Affair",
+    "IMDb ID": "tt21051906",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMDQyMWFkMGMtNjhiMS00MzgyLWFmOGYtNzA3MGNjNGVhMGI4XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "5.4",
+    "Wallpaper Image": "https://m.media-amazon.com/images/M/MV5BNGJmNzFjOTctNjMwZi00ZDY2LTliOWYtOTIyOTZkMjA1Y2ZkXkEyXkFqcGc@._V1_.jpg"
 }
 ]
