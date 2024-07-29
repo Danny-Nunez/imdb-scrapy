@@ -1,40 +1,5 @@
 [
 {
-    "Movie Title": "Longlegs",
-    "IMDb ID": "tt23468450",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMmVkZWY2ODEtYTMyYy00MDg2LWFkMGUtMjYwOTBhOGViODQzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "7.2",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "MaXXXine",
-    "IMDb ID": "tt22048412",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNjBmYzFmODktNDIyZC00NWFmLTk2NTctYmZiY2E2OTA2OTc0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "6.8",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Captain America: Brave New World",
-    "IMDb ID": "tt14513804",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZTk2NTUxZDItN2Y1Ni00MDFjLTg4OWItMWY3M2Q2OGNiODUwXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": null,
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Despicable Me 4",
-    "IMDb ID": "tt7510222",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BOTk4MjFhZTMtOWIxOS00YzE2LThkZGEtMzg0MDAyMmFiZmU1XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,1,140,207_.jpg",
-    "Rating": "6.3",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Kingdom of the Planet of the Apes",
-    "IMDb ID": "tt11389872",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZGI4NTEwNTAtZDcwMi00MDkxLTg1OGYtNTZmMzE3ZDljNzVlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "7.0",
-    "Wallpaper Image": null
-},
-{
     "Movie Title": "Maharaja",
     "IMDb ID": "tt26548265",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BOTFlMTIxOGItZTk0Zi00MTk2LWJiM2UtMzlhZWYzNjQ4N2Y3XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
@@ -49,6 +14,27 @@
     "Wallpaper Image": null
 },
 {
+    "Movie Title": "Despicable Me 4",
+    "IMDb ID": "tt7510222",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BOTk4MjFhZTMtOWIxOS00YzE2LThkZGEtMzg0MDAyMmFiZmU1XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "Rating": "6.3",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Captain America: Brave New World",
+    "IMDb ID": "tt14513804",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZTk2NTUxZDItN2Y1Ni00MDFjLTg4OWItMWY3M2Q2OGNiODUwXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": null,
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Kingdom of the Planet of the Apes",
+    "IMDb ID": "tt11389872",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZGI4NTEwNTAtZDcwMi00MDkxLTg1OGYtNTZmMzE3ZDljNzVlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "7.0",
+    "Wallpaper Image": null
+},
+{
     "Movie Title": "IF",
     "IMDb ID": "tt11152168",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BYWQ4OGI2MmQtZjUxMC00Njg2LWJiZTQtYmFmZjI5ZmI1Y2U1XkEyXkFqcGdeQXVyMTA1NjE5MTAz._V1_QL75_UY207_CR1,0,140,207_.jpg",
@@ -56,10 +42,10 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Gladiator II",
-    "IMDb ID": "tt9218128",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BODVlNzZmOWUtNTNhNC00YzczLTg5NzAtOThlZjViZDkwYTIzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": null,
+    "Movie Title": "Longlegs",
+    "IMDb ID": "tt23468450",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMmVkZWY2ODEtYTMyYy00MDg2LWFkMGUtMjYwOTBhOGViODQzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "7.2",
     "Wallpaper Image": null
 },
 {
@@ -70,10 +56,17 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Beverly Hills Cop: Axel F",
-    "IMDb ID": "tt3083016",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMDVhYWNkNTUtZWVjMC00Y2M1LWEzNmItZjFiMzA4ZjNiODI4XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "6.5",
+    "Movie Title": "Gladiator II",
+    "IMDb ID": "tt9218128",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BODVlNzZmOWUtNTNhNC00YzczLTg5NzAtOThlZjViZDkwYTIzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": null,
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "MaXXXine",
+    "IMDb ID": "tt22048412",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNjBmYzFmODktNDIyZC00NWFmLTk2NTctYmZiY2E2OTA2OTc0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "6.8",
     "Wallpaper Image": null
 },
 {
@@ -91,10 +84,31 @@
     "Wallpaper Image": null
 },
 {
+    "Movie Title": "Beverly Hills Cop: Axel F",
+    "IMDb ID": "tt3083016",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMDVhYWNkNTUtZWVjMC00Y2M1LWEzNmItZjFiMzA4ZjNiODI4XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "6.5",
+    "Wallpaper Image": null
+},
+{
     "Movie Title": "Twister",
     "IMDb ID": "tt0117998",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BODExYTM0MzEtZGY2Yy00N2ExLTkwZjItNGYzYTRmMWZlOGEzXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_QL75_UX280_CR0,0,280,414_.jpg",
     "Rating": "6.5",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Tyler Perry's Divorce in the Black",
+    "IMDb ID": "tt28248897",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNmQwZjI1NTctYmMwNS00YWQ2LWIyZmUtZGRkNTNmNzRjY2ZkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "4.5",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Civil War",
+    "IMDb ID": "tt17279496",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYTYyODhlODktYjUzNC00NjUyLWI1MzYtNmI0MTY3YTUxYjY2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "7.1",
     "Wallpaper Image": null
 },
 {
@@ -105,17 +119,10 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Deadpool & Wolverine",
-    "IMDb ID": "tt6263850",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNzRiMjg0MzUtNTQ1Mi00Y2Q5LWEwM2MtMzUwZDU5NmVjN2NkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "8.3",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Tyler Perry's Divorce in the Black",
-    "IMDb ID": "tt28248897",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNmQwZjI1NTctYmMwNS00YWQ2LWIyZmUtZGRkNTNmNzRjY2ZkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "4.5",
+    "Movie Title": "Kalki 2898 AD",
+    "IMDb ID": "tt12735488",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMTM3ZGUwYTEtZTI5NS00ZmMyLTk2YmQtMWU4YjlhZTI3NjRjXkEyXkFqcGc@._V1_QL75_UX140_CR0,6,140,207_.jpg",
+    "Rating": "7.6",
     "Wallpaper Image": null
 },
 {
@@ -133,13 +140,6 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Kalki 2898 AD",
-    "IMDb ID": "tt12735488",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMTM3ZGUwYTEtZTI5NS00ZmMyLTk2YmQtMWU4YjlhZTI3NjRjXkEyXkFqcGc@._V1_QL75_UX140_CR0,6,140,207_.jpg",
-    "Rating": "7.7",
-    "Wallpaper Image": null
-},
-{
     "Movie Title": "Furiosa: A Mad Max Saga",
     "IMDb ID": "tt12037194",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BNDRkNGNjNzMtYzE3MS00OWQyLTkzZGUtNWIyMmYwMjY3YzYxXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -147,10 +147,17 @@
     "Wallpaper Image": null
 },
 {
+    "Movie Title": "Deadpool & Wolverine",
+    "IMDb ID": "tt6263850",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNzRiMjg0MzUtNTQ1Mi00Y2Q5LWEwM2MtMzUwZDU5NmVjN2NkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "8.2",
+    "Wallpaper Image": null
+},
+{
     "Movie Title": "A Quiet Place: Day One",
     "IMDb ID": "tt13433802",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BNGZmODU3ZDEtMjQwZC00NTA5LThmNWYtYzk5MmY5ZmM4NGIxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "6.7",
+    "Rating": "6.6",
     "Wallpaper Image": null
 },
 {
@@ -165,13 +172,6 @@
     "IMDb ID": "tt6772802",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BZGI4NzRkNDgtYzQyOS00YWVjLTllYzctNmQ5NzkzOGIxMDBhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UX280_CR0,0,280,414_.jpg",
     "Rating": "6.7",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Civil War",
-    "IMDb ID": "tt17279496",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYTYyODhlODktYjUzNC00NjUyLWI1MzYtNmI0MTY3YTUxYjY2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "7.1",
     "Wallpaper Image": null
 }
 ]
