@@ -1,5 +1,12 @@
 [
 {
+    "Movie Title": "Megalopolis",
+    "IMDb ID": "tt10128846",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BOTQ2MTcwODgtOTg3Yi00M2RmLWEyMDQtY2IzZmRlYzM3YzhjXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "4.9",
+    "Wallpaper Image": null
+},
+{
     "Movie Title": "Gladiator II",
     "IMDb ID": "tt9218128",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BMWYzZTM5ZGQtOGE5My00NmM2LWFlMDEtMGNjYjdmOWM1MzA1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -11,34 +18,6 @@
     "IMDb ID": "tt27911000",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BNzc2MWUyYzctY2E4Ny00ZTlmLThjNTMtMTViZGI5NjcyN2EzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
     "Rating": "6.5",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "The Batman",
-    "IMDb ID": "tt1877830",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMmU5NGJlMzAtMGNmOC00YjJjLTgyMzUtNjAyYmE4Njg5YWMyXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "7.8",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Megalopolis",
-    "IMDb ID": "tt10128846",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BOTQ2MTcwODgtOTg3Yi00M2RmLWEyMDQtY2IzZmRlYzM3YzhjXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "4.9",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Emilia Pérez",
-    "IMDb ID": "tt20221436",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMGM0OGNhMzktZGFlNC00NDRmLWJmOTgtYmQ0N2JlZGJhMzQyXkEyXkFqcGc@._V1_QL75_UY207_CR6,0,140,207_.jpg",
-    "Rating": "7.0",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "The Wild Robot",
-    "IMDb ID": "tt29623480",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZjM2M2E3YzAtZDJjYy00MDhkLThiYmItOGZhNzQ3NTgyZmI0XkEyXkFqcGc@._V1_QL75_UX140_CR0,7,140,207_.jpg",
-    "Rating": "8.3",
     "Wallpaper Image": null
 },
 {
@@ -56,45 +35,17 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Mission: Impossible - The Final Reckoning",
-    "IMDb ID": "tt9603208",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMDJhNDUwOTYtOTYyZi00NzQwLWFiYjMtNzM1MTYxNTQ0YjI5XkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
-    "Rating": null,
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Heretic",
-    "IMDb ID": "tt28015403",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMzFiMWM4YjAtY2Y3Yi00MDIzLTk0N2MtYTAwNGM3ZmMwODhlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "7.3",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Wicked",
-    "IMDb ID": "tt1262426",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX140_CR0,7,140,207_.jpg",
+    "Movie Title": "The Batman",
+    "IMDb ID": "tt1877830",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMmU5NGJlMzAtMGNmOC00YjJjLTgyMzUtNjAyYmE4Njg5YWMyXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
     "Rating": "7.8",
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "My Old Ass",
-    "IMDb ID": "tt18559464",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNDhiYjE1ZTAtMjM2My00OGZhLWE4MGMtMDI1YzRiYWYzMTdkXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-    "Rating": "7.0",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Venom: The Last Dance",
-    "IMDb ID": "tt16366836",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZDMyYWU4NzItZDY0MC00ODE2LTkyYTMtMzNkNDdmYmFhZDg0XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-    "Rating": "6.2",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Red One",
-    "IMDb ID": "tt14948432",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZmFkMjE4NjQtZTVmZS00MDZjLWE2ZmEtZTkzODljNjhlNWUxXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "6.9",
+    "Movie Title": "The Wild Robot",
+    "IMDb ID": "tt29623480",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZjM2M2E3YzAtZDJjYy00MDhkLThiYmItOGZhNzQ3NTgyZmI0XkEyXkFqcGc@._V1_QL75_UX140_CR0,7,140,207_.jpg",
+    "Rating": "8.3",
     "Wallpaper Image": null
 },
 {
@@ -105,6 +56,13 @@
     "Wallpaper Image": null
 },
 {
+    "Movie Title": "Venom: The Last Dance",
+    "IMDb ID": "tt16366836",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZDMyYWU4NzItZDY0MC00ODE2LTkyYTMtMzNkNDdmYmFhZDg0XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "Rating": "6.2",
+    "Wallpaper Image": null
+},
+{
     "Movie Title": "Gladiator",
     "IMDb ID": "tt0172495",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -112,10 +70,45 @@
     "Wallpaper Image": null
 },
 {
+    "Movie Title": "Wicked: Part I",
+    "IMDb ID": "tt1262426",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX140_CR0,7,140,207_.jpg",
+    "Rating": "7.5",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "My Old Ass",
+    "IMDb ID": "tt18559464",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNDhiYjE1ZTAtMjM2My00OGZhLWE4MGMtMDI1YzRiYWYzMTdkXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "Rating": "7.0",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Heretic",
+    "IMDb ID": "tt28015403",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMzFiMWM4YjAtY2Y3Yi00MDIzLTk0N2MtYTAwNGM3ZmMwODhlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "7.2",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Mission: Impossible - The Final Reckoning",
+    "IMDb ID": "tt9603208",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMDJhNDUwOTYtOTYyZi00NzQwLWFiYjMtNzM1MTYxNTQ0YjI5XkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+    "Rating": null,
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Red One",
+    "IMDb ID": "tt14948432",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZmFkMjE4NjQtZTVmZS00MDZjLWE2ZmEtZTkzODljNjhlNWUxXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "6.9",
+    "Wallpaper Image": null
+},
+{
     "Movie Title": "Hot Frosty",
     "IMDb ID": "tt32359447",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjYzOTA0NWYtNzkxNi00YmY4LTljOTYtODdhYTc0ODI3MDViXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "5.6",
+    "Rating": "5.5",
     "Wallpaper Image": null
 },
 {
@@ -133,17 +126,17 @@
     "Wallpaper Image": null
 },
 {
+    "Movie Title": "Conclave",
+    "IMDb ID": "tt20215234",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "7.6",
+    "Wallpaper Image": null
+},
+{
     "Movie Title": "Joker: Folie à Deux",
     "IMDb ID": "tt11315808",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BNTRlNmU1NzEtODNkNC00ZGM3LWFmNzQtMjBlMWRiYTcyMGRhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
     "Rating": "5.2",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Woman of the Hour",
-    "IMDb ID": "tt7737800",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYzliNzRjNDMtYTFmOS00NDQxLWJlOWMtZTViNjcyMzc0NzQwXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "6.6",
     "Wallpaper Image": null
 },
 {
@@ -161,10 +154,17 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Conclave",
-    "IMDb ID": "tt20215234",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "7.6",
+    "Movie Title": "Emilia Pérez",
+    "IMDb ID": "tt20221436",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMGM0OGNhMzktZGFlNC00NDRmLWJmOTgtYmQ0N2JlZGJhMzQyXkEyXkFqcGc@._V1_QL75_UY207_CR6,0,140,207_.jpg",
+    "Rating": "7.0",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Woman of the Hour",
+    "IMDb ID": "tt7737800",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYzliNzRjNDMtYTFmOS00NDQxLWJlOWMtZTViNjcyMzc0NzQwXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "6.6",
     "Wallpaper Image": null
 },
 {
