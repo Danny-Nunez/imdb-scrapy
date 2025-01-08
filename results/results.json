@@ -1,5 +1,26 @@
 [
 {
+    "Movie Title": "Anora",
+    "IMDb ID": "tt28607951",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "7.9",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Nosferatu",
+    "IMDb ID": "tt5040012",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "7.7",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Heretic",
+    "IMDb ID": "tt28015403",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMzFiMWM4YjAtY2Y3Yi00MDIzLTk0N2MtYTAwNGM3ZmMwODhlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "7.0",
+    "Wallpaper Image": null
+},
+{
     "Movie Title": "The Substance",
     "IMDb ID": "tt17526714",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BZDQ1NGE5MGMtYzdlZC00ODExLWJlMDMtNWU4NjA5OWYwMDEwXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
@@ -21,52 +42,10 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Heretic",
-    "IMDb ID": "tt28015403",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMzFiMWM4YjAtY2Y3Yi00MDIzLTk0N2MtYTAwNGM3ZmMwODhlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "7.0",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Nosferatu",
-    "IMDb ID": "tt5040012",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "7.7",
-    "Wallpaper Image": null
-},
-{
     "Movie Title": "Nightbitch",
     "IMDb ID": "tt12810074",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BNjI2NzNjMDAtMjI3NC00YzJhLWIyYTktNzZhMzg0MmRkNDM3XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
     "Rating": "5.7",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Conclave",
-    "IMDb ID": "tt20215234",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "7.4",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Babygirl",
-    "IMDb ID": "tt30057084",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMmUwODYwODAtYWZkZS00YmUwLWFmMWEtOGNjMjE2NDk3OWIwXkEyXkFqcGc@._V1_QL75_UX140_CR0,5,140,207_.jpg",
-    "Rating": "6.6",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Pushpa: The Rule - Part 2",
-    "IMDb ID": "tt16539454",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNWU1ZWFhNGQtZDhlZC00ZWFlLTlmNmEtN2VmYmZiN2Y5ZmQ2XkEyXkFqcGc@._V1_QL75_UX140_CR0,9,140,207_.jpg",
-    "Rating": "6.4",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Sonic the Hedgehog 3",
-    "IMDb ID": "tt18259086",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
-    "Rating": "7.3",
     "Wallpaper Image": null
 },
 {
@@ -77,10 +56,17 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Mufasa: The Lion King",
-    "IMDb ID": "tt13186482",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjBkOWUwODYtYWI3YS00N2I0LWEyYTktOTJjM2YzOTc3ZDNlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "6.7",
+    "Movie Title": "Pushpa: The Rule - Part 2",
+    "IMDb ID": "tt16539454",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNWU1ZWFhNGQtZDhlZC00ZWFlLTlmNmEtN2VmYmZiN2Y5ZmQ2XkEyXkFqcGc@._V1_QL75_UX140_CR0,9,140,207_.jpg",
+    "Rating": "6.4",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Conclave",
+    "IMDb ID": "tt20215234",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "7.4",
     "Wallpaper Image": null
 },
 {
@@ -91,38 +77,17 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Gladiator II",
-    "IMDb ID": "tt9218128",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMWYzZTM5ZGQtOGE5My00NmM2LWFlMDEtMGNjYjdmOWM1MzA1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Movie Title": "Mufasa: The Lion King",
+    "IMDb ID": "tt13186482",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjBkOWUwODYtYWI3YS00N2I0LWEyYTktOTJjM2YzOTc3ZDNlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
     "Rating": "6.7",
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Kraven: The Hunter",
-    "IMDb ID": "tt8790086",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZDU0YTI5ODAtN2NmMS00YTg3LTgyNDItN2RmOWEzOTkzZjcyXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "5.4",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Anora",
-    "IMDb ID": "tt28607951",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "7.9",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Moana 2",
-    "IMDb ID": "tt13622970",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZDUxNThhYTUtYjgxNy00MGQ4LTgzOTEtZjg1YTU5NTcwNThlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "7.0",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "The Order",
-    "IMDb ID": "tt26625693",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZWIxOGQyYjYtOGEwOC00YWNjLWJmNTktZjJlM2RmNTdjMmVlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "6.8",
+    "Movie Title": "Babygirl",
+    "IMDb ID": "tt30057084",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMmUwODYwODAtYWZkZS00YmUwLWFmMWEtOGNjMjE2NDk3OWIwXkEyXkFqcGc@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+    "Rating": "6.6",
     "Wallpaper Image": null
 },
 {
@@ -133,6 +98,34 @@
     "Wallpaper Image": null
 },
 {
+    "Movie Title": "Sonic the Hedgehog 3",
+    "IMDb ID": "tt18259086",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+    "Rating": "7.2",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Kraven the Hunter",
+    "IMDb ID": "tt8790086",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZDU0YTI5ODAtN2NmMS00YTg3LTgyNDItN2RmOWEzOTkzZjcyXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "5.4",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Gladiator II",
+    "IMDb ID": "tt9218128",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMWYzZTM5ZGQtOGE5My00NmM2LWFlMDEtMGNjYjdmOWM1MzA1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "6.7",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "The Order",
+    "IMDb ID": "tt26625693",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZWIxOGQyYjYtOGEwOC00YWNjLWJmNTktZjJlM2RmNTdjMmVlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "6.8",
+    "Wallpaper Image": null
+},
+{
     "Movie Title": "It Ends with Us",
     "IMDb ID": "tt10655524",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BYzM2NGMzNGQtZjNhMi00MTVkLTg2ZGQtN2M4OTllYzU1Y2Y0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -140,17 +133,10 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Superman",
-    "IMDb ID": "tt5950044",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZjFhZmU5NzUtZTg4Zi00ZjRjLWI0YmQtODk2MzI4YjNhYTdkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": null,
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Gladiator",
-    "IMDb ID": "tt0172495",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-    "Rating": "8.5",
+    "Movie Title": "Moana 2",
+    "IMDb ID": "tt13622970",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZDUxNThhYTUtYjgxNy00MGQ4LTgzOTEtZjg1YTU5NTcwNThlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "7.0",
     "Wallpaper Image": null
 },
 {
@@ -168,10 +154,24 @@
     "Wallpaper Image": null
 },
 {
+    "Movie Title": "Superman",
+    "IMDb ID": "tt5950044",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZjFhZmU5NzUtZTg4Zi00ZjRjLWI0YmQtODk2MzI4YjNhYTdkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": null,
+    "Wallpaper Image": null
+},
+{
     "Movie Title": "Wicked",
     "IMDb ID": "tt1262426",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX140_CR0,7,140,207_.jpg",
     "Rating": "7.8",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Gladiator",
+    "IMDb ID": "tt0172495",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+    "Rating": "8.5",
     "Wallpaper Image": null
 }
 ]
