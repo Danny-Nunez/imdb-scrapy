@@ -1,51 +1,9 @@
 [
 {
-    "Movie Title": "Snow White",
-    "IMDb ID": "tt6208148",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BY2UwOGUxMzEtMzEyZi00NjEwLTkxOTMtYTljOWEzYjYyMWNjXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "2.0",
-    "Wallpaper Image": null
-},
-{
     "Movie Title": "Jaws",
     "IMDb ID": "tt0073195",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_QL75_UX90_CR0,2,90,133_.jpg",
     "Rating": "8.1",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Echo Valley",
-    "IMDb ID": "tt27052633",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BN2RmMTUzY2YtYTBlZC00OTVhLWE0YTEtMmU3OGY5YWM2NjhhXkEyXkFqcGc@._V1_QL75_UX90_CR0,1,90,133_.jpg",
-    "Rating": "6.3",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "28 Days Later",
-    "IMDb ID": "tt0289043",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BM2I4NTI0ZGQtNGQ2ZC00ODIxLWI2N2QtMDBkNzI1NDhjYjE5XkEyXkFqcGc@._V1_QL75_UX90_CR0,1,90,133_.jpg",
-    "Rating": "7.5",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "28 Years Later",
-    "IMDb ID": "tt10548174",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNjgwYTI0YjctMWYzNS00MmI1LWI5YTctNmE1YjBkNDFlNWMxXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
-    "Rating": "7.2",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "How to Train Your Dragon",
-    "IMDb ID": "tt26743210",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BODA5Y2M0NjctNWQzMy00ODRhLWE0MzUtYmE1YTAzZjYyYmQyXkEyXkFqcGc@._V1_QL75_UX90_CR0,4,90,133_.jpg",
-    "Rating": "8.1",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "The Accountant 2",
-    "IMDb ID": "tt7068946",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjFiY2I0NTEtNjdjNy00MTljLThkOWYtMzNiYjYyMDcxYjhkXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "6.7",
     "Wallpaper Image": null
 },
 {
@@ -56,17 +14,45 @@
     "Wallpaper Image": null
 },
 {
+    "Movie Title": "Elio",
+    "IMDb ID": "tt4900148",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BOWE5ZDMyMWEtOTZjMi00YzFhLWE4OTEtNDc3MDMzZjFmMmIzXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "7.1",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "28 Years Later",
+    "IMDb ID": "tt10548174",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNjgwYTI0YjctMWYzNS00MmI1LWI5YTctNmE1YjBkNDFlNWMxXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
+    "Rating": "7.2",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Echo Valley",
+    "IMDb ID": "tt27052633",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BN2RmMTUzY2YtYTBlZC00OTVhLWE0YTEtMmU3OGY5YWM2NjhhXkEyXkFqcGc@._V1_QL75_UX90_CR0,1,90,133_.jpg",
+    "Rating": "6.3",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "The Accountant 2",
+    "IMDb ID": "tt7068946",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjFiY2I0NTEtNjdjNy00MTljLThkOWYtMzNiYjYyMDcxYjhkXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "6.7",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "How to Train Your Dragon",
+    "IMDb ID": "tt26743210",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BODA5Y2M0NjctNWQzMy00ODRhLWE0MzUtYmE1YTAzZjYyYmQyXkEyXkFqcGc@._V1_QL75_UX90_CR0,4,90,133_.jpg",
+    "Rating": "8.1",
+    "Wallpaper Image": null
+},
+{
     "Movie Title": "Materialists",
     "IMDb ID": "tt30253473",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BNmQxMTI1YmEtOGY3Yi00NzVlLWEzMjAtYTI1NWZkNDFiMDg1XkEyXkFqcGc@._V1_QL75_UX90_CR0,3,90,133_.jpg",
     "Rating": "6.8",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Final Destination: Bloodlines",
-    "IMDb ID": "tt9619824",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMzc3OWFhZWItMTE2Yy00N2NmLTg1YTktNGVlNDY0ODQ5YjNlXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "6.9",
     "Wallpaper Image": null
 },
 {
@@ -77,27 +63,6 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "The Toxic Avenger",
-    "IMDb ID": "tt1633359",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNzFhOGIyYTUtZTAwZi00NzE4LWIxMTEtYmUxODViNjk5Y2VlXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "5.7",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Straw",
-    "IMDb ID": "tt32550101",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNmZjOTU5MGQtYTcyMi00ZGJjLTk4NzQtZTcwMmI0MTczNTUwXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "6.5",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Elio",
-    "IMDb ID": "tt4900148",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BOWE5ZDMyMWEtOTZjMi00YzFhLWE4OTEtNDc3MDMzZjFmMmIzXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "7.1",
-    "Wallpaper Image": null
-},
-{
     "Movie Title": "A Minecraft Movie",
     "IMDb ID": "tt3566834",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BYzFjMzNjOTktNDBlNy00YWZhLWExYTctZDcxNDA4OWVhOTJjXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
@@ -105,10 +70,10 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "The Life of Chuck",
-    "IMDb ID": "tt12908150",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZDhlMzJhMTgtN2FhZS00OWQ1LTk3Y2ItZGNiNTQ0ZmUzYmIzXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "7.7",
+    "Movie Title": "The Toxic Avenger",
+    "IMDb ID": "tt1633359",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNzFhOGIyYTUtZTAwZi00NzE4LWIxMTEtYmUxODViNjk5Y2VlXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "5.6",
     "Wallpaper Image": null
 },
 {
@@ -119,24 +84,17 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Copycat",
-    "IMDb ID": "tt0112722",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BY2ZiODRlYWMtOGViYS00ZTNiLTlkMGQtZTAxY2IyMDAzYzU2XkEyXkFqcGc@._V1_QL75_UX90_CR0,1,90,133_.jpg",
-    "Rating": "6.6",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Jurassic World: Rebirth",
-    "IMDb ID": "tt31036941",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNDU2ODUzZWItMGNhMS00YjAxLWE5ZGMtYWU1Nzk1MjMzZjlmXkEyXkFqcGc@._V1_QL75_UX90_CR0,4,90,133_.jpg",
-    "Rating": null,
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "The Amateur",
-    "IMDb ID": "tt0899043",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjhkZjM3ZWYtMjUxMS00YzhlLTkxZWYtMzhkMzFhOTQ1NjRkXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Movie Title": "Straw",
+    "IMDb ID": "tt32550101",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNmZjOTU5MGQtYTcyMi00ZGJjLTk4NzQtZTcwMmI0MTczNTUwXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
     "Rating": "6.5",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Final Destination: Bloodlines",
+    "IMDb ID": "tt9619824",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMzc3OWFhZWItMTE2Yy00N2NmLTg1YTktNGVlNDY0ODQ5YjNlXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "6.9",
     "Wallpaper Image": null
 },
 {
@@ -150,7 +108,28 @@
     "Movie Title": "KPop Demon Hunters",
     "IMDb ID": "tt14205554",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BNTBiYWJlMjQtOTIyMy00NTY4LWFhOWItOWZhNzc3NGMyMjc2XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "7.9",
+    "Rating": "7.8",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Warfare",
+    "IMDb ID": "tt31434639",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYzEyYjE1NmEtOTFmNy00ZmQxLThlYzctOGRjNmQ0N2VjMmNmXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "7.3",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Jurassic World: Rebirth",
+    "IMDb ID": "tt31036941",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNDU2ODUzZWItMGNhMS00YjAxLWE5ZGMtYWU1Nzk1MjMzZjlmXkEyXkFqcGc@._V1_QL75_UX90_CR0,4,90,133_.jpg",
+    "Rating": null,
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "The Life of Chuck",
+    "IMDb ID": "tt12908150",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZDhlMzJhMTgtN2FhZS00OWQ1LTk3Y2ItZGNiNTQ0ZmUzYmIzXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "7.7",
     "Wallpaper Image": null
 },
 {
@@ -161,10 +140,31 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Warfare",
-    "IMDb ID": "tt31434639",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYzEyYjE1NmEtOTFmNy00ZmQxLThlYzctOGRjNmQ0N2VjMmNmXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "7.3",
+    "Movie Title": "Copycat",
+    "IMDb ID": "tt0112722",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BY2ZiODRlYWMtOGViYS00ZTNiLTlkMGQtZTAxY2IyMDAzYzU2XkEyXkFqcGc@._V1_QL75_UX90_CR0,1,90,133_.jpg",
+    "Rating": "6.6",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "The Amateur",
+    "IMDb ID": "tt0899043",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjhkZjM3ZWYtMjUxMS00YzhlLTkxZWYtMzhkMzFhOTQ1NjRkXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "6.5",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Snow White",
+    "IMDb ID": "tt6208148",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BY2UwOGUxMzEtMzEyZi00NjEwLTkxOTMtYTljOWEzYjYyMWNjXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "2.0",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "28 Days Later",
+    "IMDb ID": "tt0289043",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BM2I4NTI0ZGQtNGQ2ZC00ODIxLWI2N2QtMDBkNzI1NDhjYjE5XkEyXkFqcGc@._V1_QL75_UX90_CR0,1,90,133_.jpg",
+    "Rating": "7.5",
     "Wallpaper Image": null
 },
 {
