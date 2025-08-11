@@ -1,23 +1,9 @@
 [
 {
-    "Movie Title": "Saiyaara",
-    "IMDb ID": "tt28037987",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMTk2ZmFhYjctYWZiYy00N2IxLWEzMWItZGRiMDY4ZDQwZWFlXkEyXkFqcGc@._V1_QL75_UY133_CR5,0,90,133_.jpg",
-    "Rating": "6.6",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "The Life of Chuck",
-    "IMDb ID": "tt12908150",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZDhlMzJhMTgtN2FhZS00OWQ1LTk3Y2ItZGNiNTQ0ZmUzYmIzXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "7.5",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Bring Her Back",
-    "IMDb ID": "tt32246771",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZTlhYTk1ZTEtOWY3NC00NWQ5LTlkOTctNjQ3ZDYyZGE5ZWNlXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "7.2",
+    "Movie Title": "Jurassic World: Rebirth",
+    "IMDb ID": "tt31036941",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMGM3ZmI3NzQtNzU5Yi00ZWI1LTg3YTAtNmNmNWIyMWFjZTBkXkEyXkFqcGc@._V1_QL75_UX90_CR0,4,90,133_.jpg",
+    "Rating": "6.1",
     "Wallpaper Image": null
 },
 {
@@ -35,24 +21,31 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "The Naked Gun",
-    "IMDb ID": "tt3402138",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNGFlNDhkNzItZjgxNC00OGYzLWFjZDAtZTJmNDY5ZmEyZDc0XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "7.0",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Jurassic World: Rebirth",
-    "IMDb ID": "tt31036941",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMGM3ZmI3NzQtNzU5Yi00ZWI1LTg3YTAtNmNmNWIyMWFjZTBkXkEyXkFqcGc@._V1_QL75_UX90_CR0,4,90,133_.jpg",
-    "Rating": "6.1",
-    "Wallpaper Image": null
-},
-{
     "Movie Title": "The Amateur",
     "IMDb ID": "tt0899043",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjhkZjM3ZWYtMjUxMS00YzhlLTkxZWYtMzhkMzFhOTQ1NjRkXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
     "Rating": "6.5",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Bring Her Back",
+    "IMDb ID": "tt32246771",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZTlhYTk1ZTEtOWY3NC00NWQ5LTlkOTctNjQ3ZDYyZGE5ZWNlXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "7.2",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Saiyaara",
+    "IMDb ID": "tt28037987",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMTk2ZmFhYjctYWZiYy00N2IxLWEzMWItZGRiMDY4ZDQwZWFlXkEyXkFqcGc@._V1_QL75_UY133_CR5,0,90,133_.jpg",
+    "Rating": "6.6",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "The Naked Gun",
+    "IMDb ID": "tt3402138",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNGFlNDhkNzItZjgxNC00OGYzLWFjZDAtZTJmNDY5ZmEyZDc0XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "7.0",
     "Wallpaper Image": null
 },
 {
@@ -73,7 +66,14 @@
     "Movie Title": "Weapons",
     "IMDb ID": "tt26581740",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
-    "Rating": "8.0",
+    "Rating": "7.9",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Final Destination: Bloodlines",
+    "IMDb ID": "tt9619824",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMzc3OWFhZWItMTE2Yy00N2NmLTg1YTktNGVlNDY0ODQ5YjNlXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "6.8",
     "Wallpaper Image": null
 },
 {
@@ -91,45 +91,10 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Final Destination: Bloodlines",
-    "IMDb ID": "tt9619824",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMzc3OWFhZWItMTE2Yy00N2NmLTg1YTktNGVlNDY0ODQ5YjNlXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "6.8",
-    "Wallpaper Image": null
-},
-{
     "Movie Title": "Happy Gilmore",
     "IMDb ID": "tt0116483",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BMzMyZTM1MTMtNDdjOS00NzIzLTkxY2QtZTU4OGYxOTUwNDMxXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
     "Rating": "7.0",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "F1: The Movie",
-    "IMDb ID": "tt16311594",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZTYwYjJhNzYtY2ZiZS00ZmYxLWJkZjctYjRlNGIxYjI3ZTU0XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "7.9",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Materialists",
-    "IMDb ID": "tt30253473",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNmQxMTI1YmEtOGY3Yi00NzVlLWEzMjAtYTI1NWZkNDFiMDg1XkEyXkFqcGc@._V1_QL75_UX90_CR0,3,90,133_.jpg",
-    "Rating": "6.4",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Spider-Man: Brand New Day",
-    "IMDb ID": "tt22084616",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMTJhZGE3NmYtYTg0Ny00MWUzLWE0MmUtYTZjYTg1ZjVlMWRkXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
-    "Rating": null,
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "War of the Worlds",
-    "IMDb ID": "tt13186306",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BOWVlZDUzNTgtYzcxNC00OTYyLThlZjYtZDc1MTM2ZmI1Y2IzXkEyXkFqcGc@._V1_QL75_UX90_CR0,1,90,133_.jpg",
-    "Rating": "2.7",
     "Wallpaper Image": null
 },
 {
@@ -147,10 +112,24 @@
     "Wallpaper Image": null
 },
 {
+    "Movie Title": "The Life of Chuck",
+    "IMDb ID": "tt12908150",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZDhlMzJhMTgtN2FhZS00OWQ1LTk3Y2ItZGNiNTQ0ZmUzYmIzXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "7.4",
+    "Wallpaper Image": null
+},
+{
     "Movie Title": "The Naked Gun: From the Files of Police Squad!",
     "IMDb ID": "tt0095705",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BZTI5N2I1MjAtNTc0Yy00ZDIyLThkZTctMGQ5NTBhNjIwMWQ0XkEyXkFqcGc@._V1_QL75_UX90_CR0,4,90,133_.jpg",
     "Rating": "7.6",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Materialists",
+    "IMDb ID": "tt30253473",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNmQxMTI1YmEtOGY3Yi00NzVlLWEzMjAtYTI1NWZkNDFiMDg1XkEyXkFqcGc@._V1_QL75_UX90_CR0,3,90,133_.jpg",
+    "Rating": "6.4",
     "Wallpaper Image": null
 },
 {
@@ -161,10 +140,17 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "My Oxford Year",
-    "IMDb ID": "tt4978342",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMWU0YTc0OWYtOWJjNy00ZDYzLWFlMTItMGZkNzM4YjQ5OWQzXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "6.0",
+    "Movie Title": "F1: The Movie",
+    "IMDb ID": "tt16311594",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZTYwYjJhNzYtY2ZiZS00ZmYxLWJkZjctYjRlNGIxYjI3ZTU0XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "7.9",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "War of the Worlds",
+    "IMDb ID": "tt13186306",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BOWVlZDUzNTgtYzcxNC00OTYyLThlZjYtZDc1MTM2ZmI1Y2IzXkEyXkFqcGc@._V1_QL75_UX90_CR0,1,90,133_.jpg",
+    "Rating": "2.7",
     "Wallpaper Image": null
 },
 {
@@ -172,6 +158,20 @@
     "IMDb ID": "tt5950044",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BOGMwZGJiM2EtMzEwZC00YTYzLWIxNzYtMmJmZWNlZjgxZTMwXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
     "Rating": "7.5",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Spider-Man: Brand New Day",
+    "IMDb ID": "tt22084616",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMTJhZGE3NmYtYTg0Ny00MWUzLWE0MmUtYTZjYTg1ZjVlMWRkXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
+    "Rating": null,
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "My Oxford Year",
+    "IMDb ID": "tt4978342",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMWU0YTc0OWYtOWJjNy00ZDYzLWFlMTItMGZkNzM4YjQ5OWQzXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "6.0",
     "Wallpaper Image": null
 }
 ]
