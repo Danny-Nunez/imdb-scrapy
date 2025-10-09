@@ -1,16 +1,9 @@
 [
 {
-    "Movie Title": "The Conjuring: Last Rites",
-    "IMDb ID": "tt22898462",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BM2VmMzRkYzgtMzg2ZC00OTFkLTkwMTYtNTMxNjM2YzI1MjgyXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "6.3",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Bring Her Back",
-    "IMDb ID": "tt32246771",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZTlhYTk1ZTEtOWY3NC00NWQ5LTlkOTctNjQ3ZDYyZGE5ZWNlXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "7.2",
+    "Movie Title": "Kantara A Legend: Chapter 1",
+    "IMDb ID": "tt26439764",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNDU2ZTYxYTMtMjhlZC00ZjEwLThhNDUtMzdlNWM4ZDcyYTM1XkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
+    "Rating": "8.7",
     "Wallpaper Image": null
 },
 {
@@ -21,10 +14,10 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "One Battle After Another",
-    "IMDb ID": "tt30144839",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
-    "Rating": "8.3",
+    "Movie Title": "The Conjuring: Last Rites",
+    "IMDb ID": "tt22898462",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BM2VmMzRkYzgtMzg2ZC00OTFkLTkwMTYtNTMxNjM2YzI1MjgyXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "6.3",
     "Wallpaper Image": null
 },
 {
@@ -32,6 +25,20 @@
     "IMDb ID": "tt32820897",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BOGQ3YWUzYjEtMTJiYy00ZjQ0LWI0YjktYjhiNGVhNGExYTM3XkEyXkFqcGc@._V1_QL75_UX90_CR0,1,90,133_.jpg",
     "Rating": "8.5",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "One Battle After Another",
+    "IMDb ID": "tt30144839",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
+    "Rating": "8.3",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Bring Her Back",
+    "IMDb ID": "tt32246771",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZTlhYTk1ZTEtOWY3NC00NWQ5LTlkOTctNjQ3ZDYyZGE5ZWNlXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "7.2",
     "Wallpaper Image": null
 },
 {
@@ -49,31 +56,10 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Superman",
-    "IMDb ID": "tt5950044",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BOGMwZGJiM2EtMzEwZC00YTYzLWIxNzYtMmJmZWNlZjgxZTMwXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
-    "Rating": "7.1",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Psycho",
-    "IMDb ID": "tt0054215",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjZhMzFiZjItODA3ZC00MmRhLWIzMGYtMmVjOWUwYTA3MTRjXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "8.5",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Weapons",
-    "IMDb ID": "tt26581740",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
-    "Rating": "7.6",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Frankenstein",
-    "IMDb ID": "tt1312221",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "7.3",
+    "Movie Title": "The Naked Gun",
+    "IMDb ID": "tt3402138",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNGFlNDhkNzItZjgxNC00OGYzLWFjZDAtZTJmNDY5ZmEyZDc0XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "6.5",
     "Wallpaper Image": null
 },
 {
@@ -84,6 +70,13 @@
     "Wallpaper Image": null
 },
 {
+    "Movie Title": "Weapons",
+    "IMDb ID": "tt26581740",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
+    "Rating": "7.6",
+    "Wallpaper Image": null
+},
+{
     "Movie Title": "Steve",
     "IMDb ID": "tt32985279",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BYmE4N2ZlNWQtMDRhNC00ZmYzLWI5ODMtODAzZjRiOTkxZGZhXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
@@ -91,17 +84,17 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "The Thursday Murder Club",
-    "IMDb ID": "tt12001534",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYmQ4NWVjN2EtN2U3NC00YzZhLWIzYmMtNjQ0ZjNiN2MzNDI0XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "6.5",
+    "Movie Title": "Psycho",
+    "IMDb ID": "tt0054215",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjZhMzFiZjItODA3ZC00MmRhLWIzMGYtMmVjOWUwYTA3MTRjXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "8.5",
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Kantara A Legend: Chapter 1",
-    "IMDb ID": "tt26439764",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNDU2ZTYxYTMtMjhlZC00ZjEwLThhNDUtMzdlNWM4ZDcyYTM1XkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
-    "Rating": "8.8",
+    "Movie Title": "Frankenstein",
+    "IMDb ID": "tt1312221",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "7.3",
     "Wallpaper Image": null
 },
 {
@@ -112,24 +105,17 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "The Naked Gun",
-    "IMDb ID": "tt3402138",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNGFlNDhkNzItZjgxNC00OGYzLWFjZDAtZTJmNDY5ZmEyZDc0XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "6.5",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Him",
-    "IMDb ID": "tt20990442",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZjE1OGY1OGItZWIxZi00ZDc0LTg0OTgtMzMwNTdiNzNhZDhhXkEyXkFqcGc@._V1_QL75_UX90_CR0,4,90,133_.jpg",
-    "Rating": "5.3",
-    "Wallpaper Image": null
-},
-{
     "Movie Title": "The Smashing Machine",
     "IMDb ID": "tt11214558",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BOWYxZTM1ZGMtMjg5MC00NzcyLTk0ZTEtZWI0ZThkNDJiYjZmXkEyXkFqcGc@._V1_QL75_UX90_CR0,3,90,133_.jpg",
-    "Rating": "7.0",
+    "Rating": "6.9",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "V/H/S/Halloween",
+    "IMDb ID": "tt37676033",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNDYxMjFiMzMtZjRkMS00MmM4LTkyYzItMjNjMjM3ZDUzYTY1XkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
+    "Rating": "6.0",
     "Wallpaper Image": null
 },
 {
@@ -140,13 +126,6 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Tron: Ares",
-    "IMDb ID": "tt6604188",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYzk0NjE4NzYtZjc5Ni00MTkxLTgyY2QtZjliOTA5N2U2YzM1XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": null,
-    "Wallpaper Image": null
-},
-{
     "Movie Title": "28 Years Later",
     "IMDb ID": "tt10548174",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BNjgwYTI0YjctMWYzNS00MmI1LWI5YTctNmE1YjBkNDFlNWMxXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
@@ -154,10 +133,24 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "The Lost Bus",
-    "IMDb ID": "tt21103218",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZTIzNmQzYzUtNTdlNi00NmY5LThmNTYtMGFmZjUxMTgzOGNmXkEyXkFqcGc@._V1_QL75_UX90_CR0,1,90,133_.jpg",
-    "Rating": "7.0",
+    "Movie Title": "Him",
+    "IMDb ID": "tt20990442",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZjE1OGY1OGItZWIxZi00ZDc0LTg0OTgtMzMwNTdiNzNhZDhhXkEyXkFqcGc@._V1_QL75_UX90_CR0,4,90,133_.jpg",
+    "Rating": "5.3",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "The Thursday Murder Club",
+    "IMDb ID": "tt12001534",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYmQ4NWVjN2EtN2U3NC00YzZhLWIzYmMtNjQ0ZjNiN2MzNDI0XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "6.5",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Tron: Ares",
+    "IMDb ID": "tt6604188",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYzk0NjE4NzYtZjc5Ni00MTkxLTgyY2QtZjliOTA5N2U2YzM1XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "6.4",
     "Wallpaper Image": null
 },
 {
@@ -168,10 +161,17 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "V/H/S/Halloween",
-    "IMDb ID": "tt37676033",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNDYxMjFiMzMtZjRkMS00MmM4LTkyYzItMjNjMjM3ZDUzYTY1XkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
-    "Rating": "6.0",
+    "Movie Title": "The Lost Bus",
+    "IMDb ID": "tt21103218",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZTIzNmQzYzUtNTdlNi00NmY5LThmNTYtMGFmZjUxMTgzOGNmXkEyXkFqcGc@._V1_QL75_UX90_CR0,1,90,133_.jpg",
+    "Rating": "7.0",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Superman",
+    "IMDb ID": "tt5950044",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BOGMwZGJiM2EtMzEwZC00YTYzLWIxNzYtMmJmZWNlZjgxZTMwXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
+    "Rating": "7.1",
     "Wallpaper Image": null
 }
 ]
