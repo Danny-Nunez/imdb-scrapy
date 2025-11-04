@@ -1,9 +1,16 @@
 [
 {
-    "Movie Title": "The Perfect Neighbor",
-    "IMDb ID": "tt34962891",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZmYxZjA5YmItMjJkYi00NzllLWJjMzgtZjFjZjBlZGQwMmRkXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "7.1",
+    "Movie Title": "Tron: Ares",
+    "IMDb ID": "tt6604188",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYzk0NjE4NzYtZjc5Ni00MTkxLTgyY2QtZjliOTA5N2U2YzM1XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "6.6",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Sinners",
+    "IMDb ID": "tt31193180",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "7.6",
     "Wallpaper Image": null
 },
 {
@@ -14,38 +21,10 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Eden",
-    "IMDb ID": "tt23149780",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMmU3YjQ1YzAtMGU4OS00MWJkLTg2NGMtM2NmMmQ3NTM3NjNjXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "6.5",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Crime 101",
-    "IMDb ID": "tt32430579",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZThkZmM3YTEtYWExOC00NDM4LWExMzMtMTg1YWY3OTgyZGY1XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Movie Title": "Predator: Badlands",
+    "IMDb ID": "tt31227572",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNTdjZGUxMTItNjRkNS00N2VhLWE4MjMtMjVhODMwMGIxNjUwXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
     "Rating": null,
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Good Boy",
-    "IMDb ID": "tt35521922",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BODJhM2JhYjktN2JlMC00YzVjLWI3NjctMTgzYjhhZDk3ZjU2XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "6.2",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Tron: Ares",
-    "IMDb ID": "tt6604188",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYzk0NjE4NzYtZjc5Ni00MTkxLTgyY2QtZjliOTA5N2U2YzM1XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "6.6",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "The Elixir",
-    "IMDb ID": "tt32643830",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMzUyZTgyODctNWY2MC00NDMxLThhZjUtNDUxODA4YTYwZWIzXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
-    "Rating": "5.4",
     "Wallpaper Image": null
 },
 {
@@ -56,24 +35,17 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Springsteen: Deliver Me from Nowhere",
-    "IMDb ID": "tt31923069",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZGE4NzJiNTUtNWQ3Mi00ZGE5LWI3NmUtMjQwNWIxMWMyZDA2XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "6.9",
+    "Movie Title": "Weapons",
+    "IMDb ID": "tt26581740",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
+    "Rating": "7.5",
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Bugonia",
-    "IMDb ID": "tt12300742",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNzIzNWQxMjEtZmQ3MS00OTk2LWFlZjktZDUyYWRkM2M3NWVlXkEyXkFqcGc@._V1_QL75_UY133_CR2,0,90,133_.jpg",
-    "Rating": "7.7",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Frankenstein",
-    "IMDb ID": "tt1312221",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "7.8",
+    "Movie Title": "Dracula",
+    "IMDb ID": "tt31434030",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BY2U5OTYxZTUtZWFjZC00NjFmLWFhYjgtYzdjNDhmZWU3OTgxXkEyXkFqcGc@._V1_QL75_UY133_CR4,0,90,133_.jpg",
+    "Rating": "6.2",
     "Wallpaper Image": null
 },
 {
@@ -84,10 +56,31 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Regretting You",
-    "IMDb ID": "tt33088452",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNTNlM2MzM2MtZGU3OC00ZTM0LWFhYmYtYTQ1M2RhZTcwYjViXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "6.2",
+    "Movie Title": "Kantara A Legend: Chapter 1",
+    "IMDb ID": "tt26439764",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNDU2ZTYxYTMtMjhlZC00ZjEwLThhNDUtMzdlNWM4ZDcyYTM1XkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
+    "Rating": "8.5",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "It",
+    "IMDb ID": "tt1396484",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZGZmOTZjNzUtOTE4OS00OGM3LWJiNGEtZjk4Yzg2M2Q1YzYxXkEyXkFqcGc@._V1_QL75_UX90_CR0,1,90,133_.jpg",
+    "Rating": "7.3",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Jurassic World: Rebirth",
+    "IMDb ID": "tt31036941",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMGM3ZmI3NzQtNzU5Yi00ZWI1LTg3YTAtNmNmNWIyMWFjZTBkXkEyXkFqcGc@._V1_QL75_UX90_CR0,4,90,133_.jpg",
+    "Rating": "5.9",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Springsteen: Deliver Me from Nowhere",
+    "IMDb ID": "tt31923069",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZGE4NzJiNTUtNWQ3Mi00ZGE5LWI3NmUtMjQwNWIxMWMyZDA2XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "6.9",
     "Wallpaper Image": null
 },
 {
@@ -98,6 +91,41 @@
     "Wallpaper Image": null
 },
 {
+    "Movie Title": "KPop Demon Hunters",
+    "IMDb ID": "tt14205554",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNTBiYWJlMjQtOTIyMy00NTY4LWFhOWItOWZhNzc3NGMyMjc2XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "7.6",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Frankenstein",
+    "IMDb ID": "tt1312221",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "7.8",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Regretting You",
+    "IMDb ID": "tt33088452",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNTNlM2MzM2MtZGU3OC00ZTM0LWFhYmYtYTQ1M2RhZTcwYjViXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "6.2",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Good Boy",
+    "IMDb ID": "tt35521922",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BODJhM2JhYjktN2JlMC00YzVjLWI3NjctMTgzYjhhZDk3ZjU2XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "6.2",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Eden",
+    "IMDb ID": "tt23149780",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMmU3YjQ1YzAtMGU4OS00MWJkLTg2NGMtM2NmMmQ3NTM3NjNjXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "6.5",
+    "Wallpaper Image": null
+},
+{
     "Movie Title": "The Long Walk",
     "IMDb ID": "tt10374610",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BNmE4YmIxNWQtMzJhMy00NDI5LWFmYjEtMGYyMmFhNzdjODVmXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
@@ -105,59 +133,38 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "The Hand That Rocks the Cradle",
-    "IMDb ID": "tt33502160",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYWRhYzA1NDUtY2ExZC00MTQzLWE4MjYtMGJlODJkNTYwNzI5XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "5.3",
+    "Movie Title": "Ballad of a Small Player",
+    "IMDb ID": "tt32063098",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMWZhYzE5ODctNTUwYi00ZGE3LTliNTgtZTNkYjcxZWMxMWJjXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "5.8",
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "The Substance",
-    "IMDb ID": "tt17526714",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZDQ1NGE5MGMtYzdlZC00ODExLWJlMDMtNWU4NjA5OWYwMDEwXkEyXkFqcGc@._V1_QL75_UY133_CR1,0,90,133_.jpg",
-    "Rating": "7.2",
+    "Movie Title": "Bugonia",
+    "IMDb ID": "tt12300742",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNzIzNWQxMjEtZmQ3MS00OTk2LWFlZjktZDUyYWRkM2M3NWVlXkEyXkFqcGc@._V1_QL75_UY133_CR2,0,90,133_.jpg",
+    "Rating": "7.7",
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "I Know What You Did Last Summer",
-    "IMDb ID": "tt4045450",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNjE2Y2UyNmItZDQyZS00ZjE1LThmMWMtNTVmYzMxOTgwNmVlXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "5.1",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Dead of Winter",
-    "IMDb ID": "tt7574556",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjJiNTkxMDMtYWZjZC00NDJkLTliNDQtZjIzMTAxZGI2N2NmXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "6.1",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Roofman",
-    "IMDb ID": "tt4627382",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjU4OTkyN2MtYjI0Mi00MjE3LWFkNTktZDNjODc3OTdiMDdiXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "7.2",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "The Black Phone",
-    "IMDb ID": "tt7144666",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMjFhZTcxOTktMzllMS00MzIzLWJhODEtZDU5YTFkNzRjZWQyXkEyXkFqcGc@._V1_QL75_UX90_CR0,4,90,133_.jpg",
+    "Movie Title": "Hocus Pocus",
+    "IMDb ID": "tt0107120",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYWRhOThjM2UtNmRhMi00YzFiLWI4MDYtOGQwNGY0ZjFlOGFkXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
     "Rating": "6.9",
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Good Fortune",
-    "IMDb ID": "tt27543578",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjk3ZTgwZmUtOTVlMy00ODExLTkzMTUtYzRhM2FjNGYyMzZkXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "6.9",
+    "Movie Title": "Scream 7",
+    "IMDb ID": "tt27047903",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYTIxMTYxY2YtMGMxNi00Y2U0LWE5OWYtMDNjZDYzODIwOGU4XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": null,
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "The Roses",
-    "IMDb ID": "tt31973693",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYzliNTEyYjEtNGE3Mi00ZDIzLTg1NzYtZDBhNTQ5ZDVkMmM3XkEyXkFqcGc@._V1_QL75_UX90_CR0,1,90,133_.jpg",
-    "Rating": "6.8",
+    "Movie Title": "The Running Man",
+    "IMDb ID": "tt14107334",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMTk5NjU4OTAtNTEyMS00ZjBiLTg0ZjMtOGJiMGJhNjQ3MzYxXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": null,
     "Wallpaper Image": null
 },
 {
@@ -165,13 +172,6 @@
     "IMDb ID": "tt30144839",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
     "Rating": "8.2",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Weapons",
-    "IMDb ID": "tt26581740",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
-    "Rating": "7.5",
     "Wallpaper Image": null
 }
 ]
