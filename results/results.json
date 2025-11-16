@@ -1,26 +1,5 @@
 [
 {
-    "Movie Title": "Baramulla",
-    "IMDb ID": "tt29247040",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYmU5OGFiN2QtZDBiZC00MjdiLTg5ZmMtNWI2Yjg2NGU0MzhjXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
-    "Rating": "7.1",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "The Woman in Cabin 10",
-    "IMDb ID": "tt7130300",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNDY0YmEyNDMtNTQ0Yi00MWVmLWFiYjMtODM5NmUzZWQ5MDMxXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
-    "Rating": "5.8",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Frankenstein",
-    "IMDb ID": "tt1312221",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "7.6",
-    "Wallpaper Image": null
-},
-{
     "Movie Title": "The Running Man",
     "IMDb ID": "tt14107334",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BMTk5NjU4OTAtNTEyMS00ZjBiLTg0ZjMtOGJiMGJhNjQ3MzYxXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
@@ -42,108 +21,10 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Nuremberg",
-    "IMDb ID": "tt29567915",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMWUzODNkYWUtMmMzOC00NzZjLTlkMTctOTkwM2I2ZWI1MTlmXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "7.7",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "One Battle After Another",
-    "IMDb ID": "tt30144839",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
-    "Rating": "8.2",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Good Fortune",
-    "IMDb ID": "tt27543578",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjk3ZTgwZmUtOTVlMy00ODExLTkzMTUtYzRhM2FjNGYyMzZkXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "6.6",
-    "Wallpaper Image": null
-},
-{
     "Movie Title": "Regretting You",
     "IMDb ID": "tt33088452",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BNTNlM2MzM2MtZGU3OC00ZTM0LWFhYmYtYTQ1M2RhZTcwYjViXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
     "Rating": "6.2",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Bugonia",
-    "IMDb ID": "tt12300742",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNzIzNWQxMjEtZmQ3MS00OTk2LWFlZjktZDUyYWRkM2M3NWVlXkEyXkFqcGc@._V1_QL75_UY133_CR2,0,90,133_.jpg",
-    "Rating": "7.7",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "The Fantastic Four: First Steps",
-    "IMDb ID": "tt10676052",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "6.9",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Weapons",
-    "IMDb ID": "tt26581740",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
-    "Rating": "7.5",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Die My Love",
-    "IMDb ID": "tt9362736",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjc5OWZlZmYtMTg3Yy00YzFmLTg0YTgtNjVjN2M2ZWJjOWM1XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "6.6",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Black Phone 2",
-    "IMDb ID": "tt29644189",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMTVjMzNmZGYtOWU5NS00NDYzLThhZTktZGNlODIwYWVhMDRmXkEyXkFqcGc@._V1_QL75_UX90_CR0,4,90,133_.jpg",
-    "Rating": "6.2",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Now You See Me: Now You Don't",
-    "IMDb ID": "tt4712810",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYmZmZDc1Y2EtMmU2MS00NmMzLTllZmYtNjlkODFkNjZlOGE0XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "6.2",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "A House of Dynamite",
-    "IMDb ID": "tt32376165",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNjAzMjQ4YTUtOGI1Yy00YTFkLTlkMDQtMDEwOWNjYmE3MTU1XkEyXkFqcGc@._V1_QL75_UY133_CR0,0,90,133_.jpg",
-    "Rating": "6.4",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Sinners",
-    "IMDb ID": "tt31193180",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "7.6",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Eden",
-    "IMDb ID": "tt23149780",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMmU3YjQ1YzAtMGU4OS00MWJkLTg2NGMtM2NmMmQ3NTM3NjNjXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "6.5",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Superman",
-    "IMDb ID": "tt5950044",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BOGMwZGJiM2EtMzEwZC00YTYzLWIxNzYtMmJmZWNlZjgxZTMwXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
-    "Rating": "7.1",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Materialists",
-    "IMDb ID": "tt30253473",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNmQxMTI1YmEtOGY3Yi00NzVlLWEzMjAtYTI1NWZkNDFiMDg1XkEyXkFqcGc@._V1_QL75_UX90_CR0,3,90,133_.jpg",
-    "Rating": "6.3",
     "Wallpaper Image": null
 },
 {
@@ -161,10 +42,87 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Michael",
-    "IMDb ID": "tt11378946",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMjg1MmRiODQtMjU1OC00Nzc5LTlhNjktNzllMmUwODIzMDU2XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": null,
+    "Movie Title": "The Woman in Cabin 10",
+    "IMDb ID": "tt7130300",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNDY0YmEyNDMtNTQ0Yi00MWVmLWFiYjMtODM5NmUzZWQ5MDMxXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
+    "Rating": "5.8",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Baramulla",
+    "IMDb ID": "tt29247040",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYmU5OGFiN2QtZDBiZC00MjdiLTg5ZmMtNWI2Yjg2NGU0MzhjXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
+    "Rating": "7.1",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Black Phone 2",
+    "IMDb ID": "tt29644189",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMTVjMzNmZGYtOWU5NS00NDYzLThhZTktZGNlODIwYWVhMDRmXkEyXkFqcGc@._V1_QL75_UX90_CR0,4,90,133_.jpg",
+    "Rating": "6.2",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Weapons",
+    "IMDb ID": "tt26581740",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
+    "Rating": "7.5",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Frankenstein",
+    "IMDb ID": "tt1312221",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "7.6",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Nuremberg",
+    "IMDb ID": "tt29567915",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMWUzODNkYWUtMmMzOC00NzZjLTlkMTctOTkwM2I2ZWI1MTlmXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "7.7",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Die My Love",
+    "IMDb ID": "tt9362736",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjc5OWZlZmYtMTg3Yy00YzFmLTg0YTgtNjVjN2M2ZWJjOWM1XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "6.6",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Good Fortune",
+    "IMDb ID": "tt27543578",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjk3ZTgwZmUtOTVlMy00ODExLTkzMTUtYzRhM2FjNGYyMzZkXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "6.6",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "One Battle After Another",
+    "IMDb ID": "tt30144839",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
+    "Rating": "8.1",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Bugonia",
+    "IMDb ID": "tt12300742",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNzIzNWQxMjEtZmQ3MS00OTk2LWFlZjktZDUyYWRkM2M3NWVlXkEyXkFqcGc@._V1_QL75_UY133_CR2,0,90,133_.jpg",
+    "Rating": "7.7",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Superman",
+    "IMDb ID": "tt5950044",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BOGMwZGJiM2EtMzEwZC00YTYzLWIxNzYtMmJmZWNlZjgxZTMwXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
+    "Rating": "7.1",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Now You See Me: Now You Don't",
+    "IMDb ID": "tt4712810",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYmZmZDc1Y2EtMmU2MS00NmMzLTllZmYtNjlkODFkNjZlOGE0XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "6.3",
     "Wallpaper Image": null
 },
 {
@@ -172,6 +130,48 @@
     "IMDb ID": "tt10374610",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BNmE4YmIxNWQtMzJhMy00NDI5LWFmYjEtMGYyMmFhNzdjODVmXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
     "Rating": "6.8",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Eden",
+    "IMDb ID": "tt23149780",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMmU3YjQ1YzAtMGU4OS00MWJkLTg2NGMtM2NmMmQ3NTM3NjNjXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "6.5",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "The Fantastic Four: First Steps",
+    "IMDb ID": "tt10676052",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "6.9",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Sinners",
+    "IMDb ID": "tt31193180",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "7.6",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "A House of Dynamite",
+    "IMDb ID": "tt32376165",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNjAzMjQ4YTUtOGI1Yy00YTFkLTlkMDQtMDEwOWNjYmE3MTU1XkEyXkFqcGc@._V1_QL75_UY133_CR0,0,90,133_.jpg",
+    "Rating": "6.4",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Michael",
+    "IMDb ID": "tt11378946",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMjg1MmRiODQtMjU1OC00Nzc5LTlhNjktNzllMmUwODIzMDU2XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": null,
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Materialists",
+    "IMDb ID": "tt30253473",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNmQxMTI1YmEtOGY3Yi00NzVlLWEzMjAtYTI1NWZkNDFiMDg1XkEyXkFqcGc@._V1_QL75_UX90_CR0,3,90,133_.jpg",
+    "Rating": "6.3",
     "Wallpaper Image": null
 }
 ]
