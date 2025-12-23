@@ -1,50 +1,8 @@
 [
 {
-    "Movie Title": "Supergirl",
-    "IMDb ID": "tt8814476",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZmYzN2VhNTAtYWUxZi00OTNiLWIyZDgtMGMxZTNlYzM3ZmE1XkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
-    "Rating": null,
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "My Secret Santa",
-    "IMDb ID": "tt35219851",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNDhiZDFhNzItY2FlYS00NTg4LThhOTAtYWIyMzNkNjZmYmQyXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "5.7",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Dhurandhar",
-    "IMDb ID": "tt33014583",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMzFiNTVkZjYtM2I3Yi00MGNjLWEyYTAtMGViNGExZmMzMGMzXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
-    "Rating": "8.6",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "National Lampoon's Christmas Vacation",
-    "IMDb ID": "tt0097958",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZDgxYzI2YWItNmUyNS00ZWE4LWEzZDctYTk1M2VkYjhkOWVmXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "7.5",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Bugonia",
-    "IMDb ID": "tt12300742",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNzIzNWQxMjEtZmQ3MS00OTk2LWFlZjktZDUyYWRkM2M3NWVlXkEyXkFqcGc@._V1_QL75_UY133_CR2,0,90,133_.jpg",
-    "Rating": "7.5",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Wake Up Dead Man",
-    "IMDb ID": "tt14364480",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BY2Q0OTA5MTEtNWU4NC00ZWFmLTg5NmYtNDFmODViYWUxZmJkXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "7.4",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Train Dreams",
-    "IMDb ID": "tt29768334",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZDkzNzkyNTktYzNhMi00YjhiLWI5YmUtZjliMTY0ZDc5NmMyXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Movie Title": "Love Actually",
+    "IMDb ID": "tt0314331",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYWRlZjcwYTgtYWJkOS00MGYwLTk3Y2ItNmU4NTg5Nzg2YTQ2XkEyXkFqcGc@._V1_QL75_UY133_CR2,0,90,133_.jpg",
     "Rating": "7.5",
     "Wallpaper Image": null
 },
@@ -56,55 +14,6 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Die My Love",
-    "IMDb ID": "tt9362736",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjc5OWZlZmYtMTg3Yy00YzFmLTg0YTgtNjVjN2M2ZWJjOWM1XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "6.2",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Frankenstein",
-    "IMDb ID": "tt1312221",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "7.5",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Glass Onion",
-    "IMDb ID": "tt11564570",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMzI2ZDYxZTEtMzVlOC00OTUyLTgyNTAtYWFhNmRhZjAzZWE1XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "7.1",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Knives Out",
-    "IMDb ID": "tt8946378",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZDU5ZTRkYmItZjg0Mi00ZTQwLThjMWItNWM3MTMxMzVjZmVjXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "7.9",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "F1: The Movie",
-    "IMDb ID": "tt16311594",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNGI0MDI4NjEtOWU3ZS00ODQyLWFhYTgtNGYxM2ZkM2Q2YjE3XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "7.7",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "Hunting Season",
-    "IMDb ID": "tt32537226",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNTJmN2E2YTYtNDc2Ni00ZjZlLWIzMjEtMjgyMzY2ZWU2YjRlXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "5.6",
-    "Wallpaper Image": null
-},
-{
-    "Movie Title": "How the Grinch Stole Christmas",
-    "IMDb ID": "tt0170016",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNDAwMjFhYTEtNzYyMS00YmY2LTg3MGEtZTRkNWNiMDI4MDRkXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "6.4",
-    "Wallpaper Image": null
-},
-{
     "Movie Title": "Avatar: Fire and Ash",
     "IMDb ID": "tt1757678",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
@@ -112,9 +21,16 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "One Battle After Another",
-    "IMDb ID": "tt30144839",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
+    "Movie Title": "Avatar",
+    "IMDb ID": "tt0499549",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMDEzMmQwZjctZWU2My00MWNlLWE0NjItMDJlYTRlNGJiZjcyXkEyXkFqcGc@._V1_QL75_UY133_CR0,0,90,133_.jpg",
+    "Rating": "7.9",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Knives Out",
+    "IMDb ID": "tt8946378",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZDU5ZTRkYmItZjg0Mi00ZTQwLThjMWItNWM3MTMxMzVjZmVjXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
     "Rating": "7.9",
     "Wallpaper Image": null
 },
@@ -126,31 +42,73 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Predator: Badlands",
-    "IMDb ID": "tt31227572",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNTdjZGUxMTItNjRkNS00N2VhLWE4MjMtMjVhODMwMGIxNjUwXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "7.4",
+    "Movie Title": "Zootopia 2",
+    "IMDb ID": "tt26443597",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjg1Mjc3MjQtMTZjNy00YWVlLWFhMWEtMWI3ZTgxYjJmNmRlXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "7.6",
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Street Fighter",
-    "IMDb ID": "tt27419420",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BN2Q5ODAzYzYtNGUwMi00NDhkLTljZDEtNjk2MjJiZmQ0MTBjXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
+    "Movie Title": "Marty Supreme",
+    "IMDb ID": "tt32916440",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZTRhYjI1MTItMWYwMi00MjY5LWI1OTktMzQwNzA3MWJlN2QyXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
+    "Rating": "8.0",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Now You See Me: Now You Don't",
+    "IMDb ID": "tt4712810",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYmZmZDc1Y2EtMmU2MS00NmMzLTllZmYtNjlkODFkNjZlOGE0XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "6.0",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Digger",
+    "IMDb ID": "tt31450459",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjY0MGVjOWQtYTc2My00ZmY5LTllNTktZWY3Y2Y5NzQ2NjMwXkEyXkFqcGc@._V1_QL75_UY133_CR7,0,90,133_.jpg",
     "Rating": null,
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Love Actually",
-    "IMDb ID": "tt0314331",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYWRlZjcwYTgtYWJkOS00MGYwLTk3Y2ItNmU4NTg5Nzg2YTQ2XkEyXkFqcGc@._V1_QL75_UY133_CR2,0,90,133_.jpg",
-    "Rating": "7.5",
+    "Movie Title": "Disclosure Day",
+    "IMDb ID": "tt15047880",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BM2VhOWNiMGItYjIwZi00MzNiLTk1MDEtNGMyYjFmYmU3ZTVlXkEyXkFqcGc@._V1_QL75_UX90_CR0,4,90,133_.jpg",
+    "Rating": null,
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Oh. What. Fun.",
-    "IMDb ID": "tt31998881",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNmM2ZDYxNWItMDBlNS00ZWE0LWI5NTctMGY0NDBhMjA1OWMwXkEyXkFqcGc@._V1_QL75_UX90_CR0,1,90,133_.jpg",
-    "Rating": "5.3",
+    "Movie Title": "The Housemaid",
+    "IMDb ID": "tt27543632",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMGU0ZThmMDUtYmZjMi00MDk5LWE2NTQtYzQ3NWZjNWZkZGE3XkEyXkFqcGc@._V1_QL75_UX90_CR0,1,90,133_.jpg",
+    "Rating": "6.9",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Dracula",
+    "IMDb ID": "tt31434030",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BY2IyZTVkOWMtOTJjZS00NzM2LWFmYTgtM2NlMjhkY2E5NWZjXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "6.2",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Dhurandhar",
+    "IMDb ID": "tt33014583",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMzFiNTVkZjYtM2I3Yi00MGNjLWEyYTAtMGViNGExZmMzMGMzXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
+    "Rating": "8.6",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Die Hard",
+    "IMDb ID": "tt0095016",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMGNlYmM1NmQtYWExMS00NmRjLTg5ZmEtMmYyYzJkMzljYWMxXkEyXkFqcGc@._V1_QL75_UX90_CR0,1,90,133_.jpg",
+    "Rating": "8.2",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "National Lampoon's Christmas Vacation",
+    "IMDb ID": "tt0097958",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZDgxYzI2YWItNmUyNS00ZWE4LWEzZDctYTk1M2VkYjhkOWVmXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "7.5",
     "Wallpaper Image": null
 },
 {
@@ -161,10 +119,24 @@
     "Wallpaper Image": null
 },
 {
-    "Movie Title": "Zootopia 2",
-    "IMDb ID": "tt26443597",
-    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYjg1Mjc3MjQtMTZjNy00YWVlLWFhMWEtMWI3ZTgxYjJmNmRlXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
-    "Rating": "7.6",
+    "Movie Title": "F1: The Movie",
+    "IMDb ID": "tt16311594",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNGI0MDI4NjEtOWU3ZS00ODQyLWFhYTgtNGYxM2ZkM2Q2YjE3XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "7.7",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "How the Grinch Stole Christmas",
+    "IMDb ID": "tt0170016",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNDAwMjFhYTEtNzYyMS00YmY2LTg3MGEtZTRkNWNiMDI4MDRkXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "6.4",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "One Battle After Another",
+    "IMDb ID": "tt30144839",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
+    "Rating": "7.9",
     "Wallpaper Image": null
 },
 {
@@ -172,6 +144,34 @@
     "IMDb ID": "tt30274401",
     "Poster Image": "https://m.media-amazon.com/images/M/MV5BZmQ3NmIxNTgtYjFiNS00NzliLWI0YzAtZDkxY2E0YWIxZDEwXkEyXkFqcGc@._V1_QL75_UX90_CR0,4,90,133_.jpg",
     "Rating": "5.5",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "The Great Flood",
+    "IMDb ID": "tt29927663",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BZTVlYTJhNWQtZDdhMS00MjRhLWI3YWEtMDRkN2FhNTc3MWZlXkEyXkFqcGc@._V1_QL75_UY133_CR8,0,90,133_.jpg",
+    "Rating": "5.4",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Frankenstein",
+    "IMDb ID": "tt1312221",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "7.5",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Wake Up Dead Man",
+    "IMDb ID": "tt14364480",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BY2Q0OTA5MTEtNWU4NC00ZWFmLTg5NmYtNDFmODViYWUxZmJkXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg",
+    "Rating": "7.4",
+    "Wallpaper Image": null
+},
+{
+    "Movie Title": "Avatar: The Way of Water",
+    "IMDb ID": "tt1630029",
+    "Poster Image": "https://m.media-amazon.com/images/M/MV5BNWI0Y2NkOWEtMmM2OC00MjQ3LWI1YzItZGQxYzQ3NzI4NWZmXkEyXkFqcGc@._V1_QL75_UY133_CR2,0,90,133_.jpg",
+    "Rating": "7.5",
     "Wallpaper Image": null
 }
 ]
